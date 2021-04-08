@@ -1,0 +1,32 @@
+# main links links
+main:
+  - title: "Research"
+    url: /Research/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "SAMBa Conference '21"
+    url: /SAMBa-Conference/
+        
+  - title: "Blog Posts"
+    url: /blog/
+  
+  - title: "Other SAMBa Pages"
+    url: /SLS-ITT/
+
+conf:
+  - title: "Welcome and Information"
+    url:  /SAMBa-Conference/#welcome-and-information
+  
+  - title: "Registration"
+    url: /SAMBa-Conference/#registration
+    
+  - title: "Schedule"
+    url: /SAMBa-Conference/#schedule
+  
+  - title: "Speakers"
+    url: /SAMBa-Conference/#speakers
+  
+  - title: "Coordinators"
+    url: /SAMBa-Conference/#coordinators
