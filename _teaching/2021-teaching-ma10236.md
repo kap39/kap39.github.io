@@ -191,7 +191,7 @@ Week 7
 * Projectiles 
     * Under gravity with no air resistance
         * Equation of motion \$ \ddot{\mathbf{x}} = \mathbf{g} \$.
-        * Motion governed by \$ \matahbf{x}(t) = \mathbf{x}_0 + \mathbf{v}_0 t + \frac{1}{2} \mathbf{g}t^2 \$. 
+        * Motion governed by \$ \mathbf{x}(t) = \mathbf{x}_0 + \mathbf{v}_0 t + \frac{1}{2} \mathbf{g}t^2 \$. 
         * Initial position \$ \mathbf{x}(0) = \mathbf{x}_0\$, launched at angle \$\alpha\$ from the horizontal with  initial velocity\$ \mathbf{v}(0) = \dot{\mathbf{x}}(0) = \mathbf{v}_0\$. 
         * Horizontal distange (range) given by \$ X = \frac{v_0^2 \sin(2\alpha)}{g}\$ maximum at \$\alpha = \frac{\pi}{4}, X = \frac{v_0^2}{g}\$. 
     * Under gravity with air resistance
