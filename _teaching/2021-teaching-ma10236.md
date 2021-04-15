@@ -197,7 +197,7 @@ Week 7
     * Under gravity with air resistance
         * Now equation of motion has drag forces: \$ \ddot{\mathbf{x}} + \frac{\mu}{m} \dot{\mathbf{x}} = \mathbf{g}\$.
         * Trajectory is now different and range equation is also different. 
-<!--
+
 Week 8 
 ====
 
@@ -206,5 +206,3 @@ Week 8
     * Tension \$\mathbf{T}\$ in the string acts in the direction \$-\mathbf{e}_r\$.
     * The weight of the particle is given by \$ -mg\mathbf{k}\$. 
     * Resolving forves gives the equation of motion \$ m\ddot{\mathbf{x}} = m\mathbf{g} + \mathbf{T} \$.
-
--->
