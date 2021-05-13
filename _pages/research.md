@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My research lies in theoretical and computational fluid dynamics, focusing on lubrication layer theory. Specifically, I'm currently reseraching the formation and evolution of the air lubrication layer that arises from impacting droplets, motivated by the pilot-wave 'bouncing droplet' phenomena. I'm supervised by [Prof. Paul Milewski](https://researchportal.bath.ac.uk/en/persons/paul-milewski/) (50%), [Prof Jonathan Evans](https://people.bath.ac.uk/masjde) (25%) and [Dr. Phil Trinh](https://http://www.ptrinh.com/) (25%).
+My research lies in theoretical and computational fluid dynamics, focusing on lubrication layer theory. Specifically, I'm currently researching the formation and evolution of the air lubrication layer that arises from impacting droplets, motivated by the pilot-wave 'bouncing droplet' phenomena. I'm supervised by [Prof. Paul Milewski](https://researchportal.bath.ac.uk/en/persons/paul-milewski/) (50%), [Prof Jonathan Evans](https://people.bath.ac.uk/masjde) (25%) and [Dr. Phil Trinh](https://http://www.ptrinh.com/) (25%).
  
 
 Talks
