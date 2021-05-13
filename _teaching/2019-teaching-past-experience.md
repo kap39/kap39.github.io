@@ -8,7 +8,7 @@ date: 2019-01-01
 location: "Bath, UK"
 ---
 
-Past Undergaduate tutoring experience
+Past Undergraduate tutoring experience
 
 2020/2021
 ======
