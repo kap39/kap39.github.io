@@ -28,7 +28,8 @@ Find important documents here.
 If you would like to attend the conference please complete the registration which can be found [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnrhm9py2vv5OqeESICF49LlUQUQyTVdSODlaVlhORExXQUc4ODQxT05ESyQlQCN0PWcu "Registration Form"). The deadline for registration to attend the conference is the 15th June. 
 
 # [Schedule](#schedule)
- <table class="timetable">
+
+<table class="timetable">
         <col width="10%">
         <col width="27%">
         <col width="27%">
@@ -136,8 +137,7 @@ If you would like to attend the conference please complete the registration whic
                 <b>End</b>
             </td>            
         </tr>
-    </table>
-<table class="timetable">
+</table>
 
 # [Speakers](#speakers)
 A full list of speakers, and abstracts coming soon.  
