@@ -75,6 +75,7 @@ If you would like to attend the conference please complete the registration whic
         </tr>
         <tr>
             <td>14:45</td>
+        </tr>
         <tr>
             <td>15:00</td>
             <td rowspan="6">
