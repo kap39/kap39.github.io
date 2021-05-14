@@ -148,112 +148,82 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ## Guest Speakers
  
 ### [Edward Crane](https://people.maths.bris.ac.uk/~maetc/ "Website")
-> [University of Bristol](https://people.maths.bris.ac.uk/~maetc/ "Website")
+> University of Bristol
+>Title: 
+>Abstract: 
 
-Title: 
+### [Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html "Website")
+> Queen Mary University of London
+>Title: 
+>Abstract: 
 
-Abstract: 
-
-### Weini Huang
-> [Queen Mary University of London](https://www.qmul.ac.uk/maths/profiles/huangw.html "Website")
-
-Title: 
-
-Abstract: 
-
-### Katerina Kaouri
-> [Cardiff University](https://www.cardiff.ac.uk/people/view/1048719-kaouri-katerina "Website")
-
-Title: 
-
-Abstract
+### [Katerina Kaouri](https://www.cardiff.ac.uk/people/view/1048719-kaouri-katerina "Website")
+> Cardiff University
+>Title: 
+>Abstract
 
 
 ## Student Speakers
 
-### Gianluca Aduone
-> [SAMBa Aligned Cohort 6](https://researchportal.bath.ac.uk/en/persons/gianluca-audone "Website")
+### [Gianluca Aduone](https://researchportal.bath.ac.uk/en/persons/gianluca-audone "Website")
+> SAMBa Aligned Cohort 6
+>Title: 
+>Abstract:
 
-Title: 
+### [Eleanor Barry](https://researchportal.bath.ac.uk/en/persons/eleanor-barry "Website")
+> SAMBa Cohort 4
+>Title: 
+>Abstract:
 
-Abstract:
+### [Thomas Bartos](https://researchportal.bath.ac.uk/en/persons/thomas-bartos "Website")
+> SAMBa Cohort 5
+>Title: 
+>Abstract:
 
-### Eleanor Barry
-> [SAMBa Cohort 4](https://researchportal.bath.ac.uk/en/persons/eleanor-barry "Website")
+### [Stefano Bruno](https://people.bath.ac.uk/sb2551/ "Website")
+> SAMBa Cohort 4
+>Title: 
+>Abstract:
 
-Title: 
+### [Margaret Duff](https://people.bath.ac.uk/magd21/ "Website")
+> SAMBa Cohort 5
+>Title: 
+>Abstract:
 
-Abstract:
+### [Paolo Grazieschi](https://researchportal.bath.ac.uk/en/persons/paolo-grazieschi "Website")
+> SAMBa Aligned Cohort 5
+>Title: 
+>Abstract:
 
-### Thomas Bartos
-> [SAMBa Cohort 5](https://researchportal.bath.ac.uk/en/persons/thomas-bartos "Website")
+### [Allen Hart](https://allenghart.wordpress.com/ "Website") & [Kevin Olding](https://mathsaurus.com/ "Website")
+> Both SAMBa Cohort 4 
+>Title: 
+>Abstract:
 
-Title: 
+### [Yvonne Krumbeck](https://yvonnek-web.gitlab.io/bath/ "Website")
+> SAMBa Aligned Cohort 5
+>Title: 
+>Abstract:
 
-Abstract:
+### [Piotr Morawiecki](https://people.bath.ac.uk/pwm27/ "Website")
+> SAMBa Cohort 6
+>Title: 
+>Abstract:
 
-### Stefano Bruno
-> [SAMBa Cohort 4](https://people.bath.ac.uk/sb2551/ "Website")
+### [Carlo Scali](https://people.bath.ac.uk/cs2458/ "Website")
+> SAMBa Cohort 6
+>Title: 
+>Abstract:
 
-Title: 
+### [Zsofia Tayigas](https://people.bath.ac.uk/zt354/ "Website")
+> SAMBa Cohort 5
+>Title: Genealogies in a branching random walk with selection
+>Abstract: The N-particle branching random walk (N-BRW) is a particle system, which can be viewed as a toy model of an evolving population affected by natural selection. In the N-BRW at each time step, N particles have locations on the real line. Each of the N particles has two offspring, which have a random displacement from the location of their parent according to some fixed jump distribution. Then among the 2N offspring particles, only the N rightmost particles survive to form the next generation. The long term behaviour of the N-BRW heavily depends on the tail of the jump distribution. In this talk I will explain our result about the genealogies of the surviving particles in a late generation, in the case when the jump distribution has polynomial tails.
 
-Abstract:
-
-### Margaret Duff
-> [SAMBa Cohort 5](https://people.bath.ac.uk/magd21/ "Website")
-
-Title: 
-
-Abstract:
-
-### Paolo Grazieschi
-> [SAMBa Aligned Cohort 5](https://researchportal.bath.ac.uk/en/persons/paolo-grazieschi "Website")
-
-Title: 
-
-Abstract:
-
-### Allen Hart & Kevin Olding
-> Both SAMBa Cohort 4 [Allen](https://allenghart.wordpress.com/ "Website"), [Kevin](https://mathsaurus.com/ "Website")
-
-Title: 
-
-Abstract:
-
-### Yvonne Krumbeck
-> [SAMBa Aligned Cohort 5](https://yvonnek-web.gitlab.io/bath/ "Website")
-
-Title: 
-
-Abstract:
-
-### Piotr Morawiecki
-> [SAMBa Cohort 6](https://people.bath.ac.uk/pwm27/ "Website")
-
-Title: 
-
-Abstract:
-
-### Carlo Scali
-> [SAMBa Cohort 6](https://people.bath.ac.uk/cs2458/ "Website")
-
-Title: 
-
-Abstract:
-
-### Zsofia Tayigas
-> [SAMBa Cohort 5](https://people.bath.ac.uk/zt354/ "Website")
-
-Title: Genealogies in a branching random walk with selection
-
-Abstract: The N-particle branching random walk (N-BRW) is a particle system, which can be viewed as a toy model of an evolving population affected by natural selection. In the N-BRW at each time step, N particles have locations on the real line. Each of the N particles has two offspring, which have a random displacement from the location of their parent according to some fixed jump distribution. Then among the 2N offspring particles, only the N rightmost particles survive to form the next generation. The long term behaviour of the N-BRW heavily depends on the tail of the jump distribution. In this talk I will explain our result about the genealogies of the surviving particles in a late generation, in the case when the jump distribution has polynomial tails.
-
-### Jeremy Worsfold
-> [SAMBa Cohort 6](https://jeremyworsfold.co.uk/ "Website")
-
-Title: 
-
-Abstract:
+### [Jeremy Worsfold](https://jeremyworsfold.co.uk/ "Website")
+> SAMBa Cohort 6
+>Title: 
+>Abstract:
 
 
 # [Coordinators](#coordinators)
