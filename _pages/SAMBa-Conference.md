@@ -68,7 +68,8 @@ If you would like to attend the conference please complete the registration whic
             <td>14:00</td>
         </tr>
         <tr>
-          <td>14:15</td>    
+          <td>14:15</td>
+        </tr>
         <tr>
             <td>14:30</td>
         </tr>
