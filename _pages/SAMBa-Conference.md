@@ -29,7 +29,7 @@ If you would like to attend the conference please complete the registration whic
 
 # [Schedule](#schedule)
 
-<table class="timetable">
+<table>
     <col width="10%">
     <col width="27%">
     <col width="27%">
@@ -77,7 +77,7 @@ If you would like to attend the conference please complete the registration whic
         <tr>
             <td>15:00</td>
             <td rowspan="6">
-                <b>Break</b>
+                <b>Poster Session</b>
             </td>
             <td rowspan="2">
                 <b>Break</b>
@@ -137,6 +137,11 @@ If you would like to attend the conference please complete the registration whic
                 <b>End</b>
             </td>            
         </tr>
+    </col>
+    </col>
+    </col>
+    </col>
+</table>
 
 
 # [Speakers](#speakers)
