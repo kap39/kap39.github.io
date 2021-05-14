@@ -14,7 +14,7 @@ My research lies in theoretical and computational fluid dynamics, focusing on lu
 
 Talks
 =====
-find a list of talks below
+Find a list of talks below
 
 {% for post in site.talks reversed %}
   {% include archive-single.html %}
