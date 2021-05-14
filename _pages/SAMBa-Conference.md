@@ -122,7 +122,7 @@ If you would like to attend the conference please complete the registration whic
             <td bgcolor="#F3F4F4">17:00</td>
         </tr>
         <tr>
-            <td>17:15</td>
+            <td bgcolor="#F3F4F4">17:15</td>
             <td rowspan="1">
                 <b>Closing Remarks</b>
             </td>
