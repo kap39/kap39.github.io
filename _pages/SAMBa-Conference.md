@@ -147,22 +147,22 @@ Find below the full list of speakers, with titles and abstracts added as they be
 
 ## Guest Speakers
  
-### Ed Crane
-> [University of Bristol](https://people.maths.bris.ac.uk/~maetc/ "Crane Website")
+### Edward Crane
+> [University of Bristol](https://people.maths.bris.ac.uk/~maetc/ "Website")
 
 Title: 
 
 Abstract: 
 
 ### Weini Huang
-> [Queen Mary University of London](https://www.qmul.ac.uk/maths/profiles/huangw.html "Huang Website")
+> [Queen Mary University of London](https://www.qmul.ac.uk/maths/profiles/huangw.html "Website")
 
 Title: 
 
 Abstract: 
 
-### Dr Katerina Kaouri
-> [Cardiff University](https://www.cardiff.ac.uk/people/view/1048719-kaouri-katerina "Kaouri Website")
+### Katerina Kaouri
+> [Cardiff University](https://www.cardiff.ac.uk/people/view/1048719-kaouri-katerina "Website")
 
 Title: 
 
