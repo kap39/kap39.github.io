@@ -22,7 +22,7 @@ The SAMBa conference is an opportunity for students to showcase their work to me
 
 
 ## Important Documents
-Find important documents here. 
+Attendees and participants of the conference are expected to follow the [code of conduct](no "not yet available") 
 
 # [Registration](#registration) 
 If you would like to attend the conference please complete the registration which can be found [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnrhm9py2vv5OqeESICF49LlUQUQyTVdSODlaVlhORExXQUc4ODQxT05ESyQlQCN0PWcu "Registration Form"). The deadline for registration to attend the conference is the 15th June. 
@@ -142,9 +142,89 @@ If you would like to attend the conference please complete the registration whic
 </table>
 
 
-
 # [Speakers](#speakers)
-A full list of speakers, and abstracts coming soon.  
+Find below the full list of speakers, with titles and abstracts added as they become available. We are grateful to have a full schedule of speakers, but SAMBa students who wish to present a poster can get in contact as soon as possible. 
+
+## Guest Speakers
+ 
+### Ed Crane
+> [University of Bristol](https://people.maths.bris.ac.uk/~maetc/ "Crane Website")
+Title: 
+Abstract: 
+
+### Weini Huang
+> [Queen Mary University of London](https://www.qmul.ac.uk/maths/profiles/huangw.html "Huang Website")
+Title: 
+Abstract: 
+
+### Dr Katerina Kaouri
+> [Cardiff University](https://www.cardiff.ac.uk/people/view/1048719-kaouri-katerina "Kaouri Website")
+Title: 
+Abstract
+
+
+## Student Speakers
+
+### Gianluca Aduone
+> SAMBa Aligned Cohort 6
+Title: 
+Abstract:
+
+### Eleanor Barry
+> SAMBa Cohort 4
+Title: 
+Abstract:
+
+### Thomas Bartos
+> SAMBa Cohort 5
+Title: 
+Abstract:
+
+### Stefano Bruno
+> [SAMBa Cohort 4](https://people.bath.ac.uk/sb2551/ "Website")
+Title: 
+Abstract:
+
+### Margaret Duff
+> [SAMBa Cohort ](https://people.bath.ac.uk/magd21/ "Website")
+Title: 
+Abstract:
+
+### Paolo Grazieschi
+> [SAMBa Aligned Cohort 5](https://researchportal.bath.ac.uk/en/persons/paolo-grazieschi "Website")
+Title: 
+Abstract:
+
+### Allen Hart & Kevin Olding
+> Both SAMBa Cohort 4 [Allen](https://allenghart.wordpress.com/ "Website"), [Kevin](https://mathsaurus.com/ "Website")
+Title: 
+Abstract:
+
+### Yvonne Krumbeck
+> [SAMBa Aligned Cohort 5](https://yvonnek-web.gitlab.io/bath/ "Website")
+Title: 
+Abstract:
+
+### Piotr Morawiecki
+> [SAMBa Cohort 6](https://people.bath.ac.uk/pwm27/ "Website")
+Title: 
+Abstract:
+
+### Carlo Scali
+> [SAMBa Cohort 6](https://people.bath.ac.uk/cs2458/ "Website")
+Title: 
+Abstract:
+
+### Zsofia Tayigas
+> [SAMBa Cohort 5](https://people.bath.ac.uk/zt354/ "Website")
+Title: Genealogies in a branching random walk with selection
+Abstract: The N-particle branching random walk (N-BRW) is a particle system, which can be viewed as a toy model of an evolving population affected by natural selection. In the N-BRW at each time step, N particles have locations on the real line. Each of the N particles has two offspring, which have a random displacement from the location of their parent according to some fixed jump distribution. Then among the 2N offspring particles, only the N rightmost particles survive to form the next generation. The long term behaviour of the N-BRW heavily depends on the tail of the jump distribution. In this talk I will explain our result about the genealogies of the surviving particles in a late generation, in the case when the jump distribution has polynomial tails.
+
+### Jeremy Worsfold
+> [SAMBa Cohort 6](https://jeremyworsfold.co.uk/ "Website")
+Title: 
+Abstract:
+
 
 # [Coordinators](#coordinators)
 
