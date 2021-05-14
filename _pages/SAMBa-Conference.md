@@ -35,10 +35,10 @@ If you would like to attend the conference please complete the registration whic
     <col width="27%">
     <col width="27%">
         <tr>
-            <th>Time</th>
-            <th> Monday (5th July)</th>
-            <th>Tuesday (7th July)</th>
-            <th>Wednesday (8th July)</th>
+            <td><b>Time</b></td>
+            <td><b> Monday (5th July)</b></td>
+            <td><b>Tuesday (7th July)</b></th>
+            <td><b>Wednesday (8th July)</b></td>
         </tr>
         <tr>
             <td>13:00</td>
