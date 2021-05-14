@@ -29,189 +29,116 @@ If you would like to attend the conference please complete the registration whic
 
 # [Schedule](#schedule)
  <table class="timetable">
-                    <col width="10%">
-                    <col width="40%">
-                    <col width="40%">
-                    <tr>
-                        <th>Time</th>
-                        <th>Tuesday (7th July)</th>
-                        <th>Wednesday (8th July)</th>
-                    </tr>
-                    <tr>
-                        <td>13:00</td>
-                        <td rowspan="1">
-                            <b>Opening Remarks</b>
-                        </td>
-                        <td rowspan="4">
-                            <b>Probability</b>
-                            <br /><i>Chair: <a href="https://people.bath.ac.uk/zt354/" target="_blank">Zsofia</a></i>
-                            <br /><u>Speakers</u>:
-                            <br />Stephen Connor (30 min + Q)
-                            <br />Thomas Finn (10 min + Q)
-                        </td>
+        <col width="10%">
+        <col width="27%">
+        <col width="27%">
+        <col width="27%">
+        <tr>
+            <th>Time</th>
+            <th> Monday (5th July)</th>
+            <th>Tuesday (7th July)</th>
+            <th>Wednesday (8th July)</th>
+        </tr>
+        <tr>
+            <td>13:00</td>
+            <td rowspan="1">
+                <b>Opening Remarks</b>
+            </td>
+            <td rowspan="8">
+                <b>Session 3</b>
+            </td>
+            <td rowspan="8">
+                <b>Session 4</b>
+            </td>
+        </tr>
+        <tr>
+            <td>13:15</td>
+            <td rowspan="8">
+                <b>Session 1</b>
+            </td>
+        </tr>
+        <tr>
+            <td>13:30</td>
+        </tr>
+        <tr>
+            <td>13:45</td>
+        </tr>
+        <tr>
+            <td>14:00</td>
+        </tr>
+        <tr>
+          <td>14:15</td>    
+        <tr>
+            <td>14:30</td>
+        </tr>
+        <tr>
+            <td>14:45</td>
+        <tr>
+            <td>15:00</td>
+            <td rowspan="6">
+                <b>Break</b>
+            </td>
+            <td rowspan="2">
+                <b>Break</b>
+            </td>
+        </tr>
+        <tr>
+            <td>15:15</td>
+            <td rowspan="2">
+                <b>Break</b>
+            </td>
+        </tr>
+        <tr>
+            <td>15:30</td>
+            <td rowspan="7">
+                <b>Session 5</b>
+            </td>
+        </tr>
+        <tr>
+            <td>15:45</td>
+            <td rowspan="7">
+                <b>Session 2</b>
+            </td>
+        </tr>
+        <tr>
+            <td>16:00</td>
+        </tr>
+        <tr>
+            <td>16:15</td>
+        </tr>
+        <tr>
+            <td>16:30</td>
+            <td rowspan="4">
+                <b>Lightning Talks</b>
+            </td>
+        </tr>
+        <tr>
+            <td>16:45</td>
+        </tr>
+        <tr>
+            <td>17:00</td>
+        </tr>
+        <tr>
+            <td>17:15</td>
+            <td rowspan="1">
+                <b>Closing Remarks</b>
+            </td>
+        </tr>
+        <tr>
+            <td>17:30</td>
+            <td rowspan="1">
+                <b>End</b>
+            </td>
+            <td rowspan="1">
+                <b>End</b>
+            </td>
+            <td rowspan="1">
+                <b>End</b>
+            </td>            
+        </tr>
+    </table>
+<table class="timetable">
 
-                    </tr>
-                    <tr>
-                        <td>13:15</td>
-                        <td rowspan="5">
-                            <b>Numerical Analysis & Applied Mathematics</b>
-                            <br /><i>Chair: <a href="https://people.bath.ac.uk/lcol20/" target="_blank">Laura</a></i>
-                            <br /><u>Speakers</u>:
-                            <br />Jenny Macey (30 min + Q)
-                            <br />Eileen Russell (10 min + Q)
-                            <br />Simone Apella (10 min + Q)
-                        </td>
-
-                    </tr>
-                    <tr>
-                        <td>13:30</td>
-                    </tr>
-                    <tr>
-                        <td>13:45</td>
-
-                    </tr>
-                    <tr>
-                        <td>14:00</td>
-                        <td rowspan="1">
-                            <b>Break</b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>14:15</td>
-                        <td rowspan="4">
-                            <b>Statistics</b>
-                            <br /><i>Chair: <a href="https://people.bath.ac.uk/ob377/" target="_blank">Tosin</a></i>
-                            <br /><u>Speakers</u>:
-                            <br />Lizhi Zhang (20 min + Q)
-                            <br />Lizzi Pitt (20 min + Q)
-                        </td>
-                    <tr>
-                        <td>14:30</td>
-                        <td rowspan="1">
-                            <b>Break</b>
-                        </td>
-
-                    </tr>
-                    <tr>
-                        <td>14:45</td>
-                        <td rowspan="3">
-                            <b>Alumni</b>
-                            <br /><i>Chair: <a href="https://people.bath.ac.uk/mk961/" target="_blank">Matthias</a></i>
-                            <br /><u>Speaker</u>:
-                            <br />Emma Horton (45 min + Q)
-                        </td>
-                    <tr>
-                        <td>15:00</td>
-
-                    </tr>
-                    <tr>
-                        <td>15:15</td>
-                        <td rowspan="1">
-                            <b>Break</b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>15:30</td>
-                        <td rowspan="1">
-                            <b>Break & Online Conference Photo</b>
-                        </td>
-                        <td rowspan="4">
-                            <b>Alumni, Videos & Teaching</b>
-                            <br /><i>Chair: <a href="https://people.bath.ac.uk/mk961/" target="_blank">Matthias</a></i>
-                            <br /><u>Speakers</u>:
-                            <br />Sam Moore (20 min + Q)
-                            <br />Malena Sabate Landman (3 min video)
-                            <br />Tosin Babasola (3 min video)
-                            <br />Kevin Olding (10 min + Q)
-                        </td>
-
-                    </tr>
-                    <tr>
-                        <td>15:45</td>
-                        <td rowspan="4">
-                            <b>Probability & Analysis</b>
-                            <br /><i>Chair: <a href="mailto:T.Davis@bath.ac.uk" target="_blank">Tom</a></i>
-                            <br /><u>Speakers</u>:
-                            <br />Trishen Gunaratnam (20 min + Q)
-                            <br />William Graham (3 min video)
-                            <br />Ben Robinson (3 min video)
-                            <br />Paolo Grazieschi (20 min + Q)
-                        </td>
-
-                    </tr>
-                    <tr>
-                        <td>16:00</td>
-                    </tr>
-                    <tr>
-                        <td>16:15</td>
-                    </tr>
-                    <tr>
-                        <td>16:30</td>
-                        <td rowspan="1">
-                            <b>Break</b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>16:45</td>
-                        <td rowspan="1">
-                            <b>Break</b>
-                        </td>
-                        <td rowspan="4">
-                            <b>Applied Mathematics</b>
-                            <br /><i>Chair: <a href="https://people.bath.ac.uk/magd21/" target="_blank">Margaret</a></i>
-                            <br /><u>Speakers</u>:
-                            <br />Rosa Kowalewski (10 min + Q)
-                            <br />Yvonne Krumbeck (20 min + Q)
-                            <br />Jason Wood (10 min + Q)
-                        </td>
-
-                    </tr>
-                    <tr>
-                        <td>17:00</td>
-                        <td rowspan="4">
-                            <b>Lightning Talks</b>
-                            <br /><i>Chair: <a href="https://people.bath.ac.uk/lcol20/" target="_blank">Laura</a></i>
-                            <br />Cohort 6 will each have 3 minutes to present the research they will be undertaking
-                            over
-                            the summer, or research they have done at an <a
-                                href="https://www.bath.ac.uk/campaigns/integrative-think-tanks/"
-                                target="_blank">ITT</a>.
-                            <br />The full list of speakers for this session is included in the PDF of all speakers,
-                            available below.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>17:15</td>
-                    </tr>
-                    <tr>
-                        <td>17:30</td>
-                    </tr>
-                    <tr>
-                        <td>17:45</td>
-                        <td rowspan="1">
-                            <b>Closing Remarks</b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>18:00</td>
-                    </tr>
-                    <tr>
-                        <td>18:15</td>
-                    </tr>
-                    <tr>
-                        <td>18:30</td>
-                    </tr>
-                    <tr>
-                        <td>18:45</td>
-                    </tr>
-                    <tr>
-                        <td>19:00</td>
-                        <td rowspan="1">
-                            <b>Virtual Pub Quiz</b>
-                        </td>
-                    </tr>
-                </table>
-            </div>
 # [Speakers](#speakers)
 A full list of speakers, and abstracts coming soon.  
 
