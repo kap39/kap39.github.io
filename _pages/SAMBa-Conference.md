@@ -92,7 +92,7 @@ If you would like to attend the conference please complete the registration whic
             </td>
         </tr>
         <tr>
-            < bgcolor="#F3F4F4">15:30</td>
+            <td bgcolor="#F3F4F4">15:30</td>
             <td rowspan="7">
                 <b>Session 5</b>
             </td>
