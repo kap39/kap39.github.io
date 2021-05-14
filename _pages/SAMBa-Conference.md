@@ -37,7 +37,7 @@ If you would like to attend the conference please complete the registration whic
         <tr>
             <td><b>Time</b></td>
             <td><b> Monday (5th July)</b></td>
-            <td><b>Tuesday (7th July)</b></th>
+            <td><b>Tuesday (7th July)</b></td>
             <td><b>Wednesday (8th July)</b></td>
         </tr>
         <tr>
