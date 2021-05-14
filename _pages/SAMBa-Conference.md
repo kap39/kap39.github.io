@@ -30,10 +30,10 @@ If you would like to attend the conference please complete the registration whic
 # [Schedule](#schedule)
 
 <table class="timetable">
-        <col width="10%">
-        <col width="27%">
-        <col width="27%">
-        <col width="27%">
+    <col width="10%">
+    <col width="27%">
+    <col width="27%">
+    <col width="27%">
         <tr>
             <th>Time</th>
             <th> Monday (5th July)</th>
@@ -137,7 +137,13 @@ If you would like to attend the conference please complete the registration whic
                 <b>End</b>
             </td>            
         </tr>
+    </col>
+    </col>
+    </col>
+    </col>
 </table>
+
+
 
 # [Speakers](#speakers)
 A full list of speakers, and abstracts coming soon.  
