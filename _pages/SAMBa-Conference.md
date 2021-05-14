@@ -29,28 +29,27 @@ If you would like to attend the conference please complete the registration whic
 
 # [Schedule](#schedule)
 
-
 | Time | Monday (5th July) | Tuesday (6th July) | Wednesday (7th July) | 
 |:----:|:-----------------:|:------------------:|:--------------------:|
-|13:00 | Opening Remarks   |Session 3           |Session 4             |
-|13:15 | Session 1         |^^                  |^^                    |
-|13:30 | ^^                |^^                  |^^                    |
-|13:45 | ^^                |^^                  |^^                    |
-|14:00 | ^^                |^^                  |^^                    |
-|14:15 | ^^                |^^                  |^^                    |
-|14:30 | ^^                |^^                  |^^                    |
-|14:45 | ^^                |^^                  |^^                    |
-|15:00 | ^^                |Poster Session      |Break                 |
-|15:15 | Break             |^^                  |^^                    |
-|15:30 | ^^                |^^                  |Session 5             |
-|15:45 | Session 2         |^^                  |^^                    |
-|16:00 | ^^                |^^                  |^^                    |
-|16:15 | ^^                |^^                  |^^                    |
-|16:30 | ^^                |Lightning Talks     |^^                    |
-|16:45 | ^^                |^^                  |^^                    |
-|17:00 | ^^                |^^                  |^^                    |
-|17:15 | ^^                |^^                  |^^                    |
-|17:30 |End                |End                 |End                   |
+|13:00 | Opening Remarks   <td rowspan="8">Session 3</td> <td rowspan="8">Session 4     </td>           
+|13:15 <td rowspan="8"  >Session 1</td>     
+|13:30 |
+|13:45 |
+|14:00|
+|14:15|
+|14:30|
+|14:45|
+|15:00<td rowspan="6">Poster Session</td>     <td rowspan="2"> Break </td>
+|15:15 <td rowspan="2">Break </td>          
+|15:30 <td rowspan="7">Session 5 </td>
+|15:45  <td rowspan="7"> Session 2 </td>      
+|16:00 | 
+|16:15 | 
+|16:30 <td rowspan="4">Lightning Talks </td>
+|16:45 | 
+|17:00 | 
+|17:15 | Closing Remarks            
+|17:30 | End | End | End |
 
 
 # [Speakers](#speakers)
