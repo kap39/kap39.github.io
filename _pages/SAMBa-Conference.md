@@ -147,7 +147,7 @@ Find below the full list of speakers, with titles and abstracts added as they be
 
 ## Guest Speakers
  
-### Edward Crane
+### [Edward Crane](https://people.maths.bris.ac.uk/~maetc/ "Website")
 > [University of Bristol](https://people.maths.bris.ac.uk/~maetc/ "Website")
 
 Title: 
