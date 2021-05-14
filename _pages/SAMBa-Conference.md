@@ -41,7 +41,7 @@ If you would like to attend the conference please complete the registration whic
             <td bgcolor="#F3F4F4"><b>Wednesday (7th July)</b></td>
         </tr>
         <tr>
-            <td>13:00</td>
+            <td bgcolor="#F3F4F4">13:00</td>
             <td rowspan="1">
                 <b>Opening Remarks</b>
             </td>
@@ -53,31 +53,31 @@ If you would like to attend the conference please complete the registration whic
             </td>
         </tr>
         <tr>
-            <td>13:15</td>
+            <td bgcolor="#F3F4F4">13:15</td>
             <td rowspan="8">
                 <b>Session 1</b>
             </td>
         </tr>
         <tr>
-            <td>13:30</td>
+            <td bgcolor="#F3F4F4">13:30</td>
         </tr>
         <tr>
-            <td>13:45</td>
+            <td bgcolor="#F3F4F4">13:45</td>
         </tr>
         <tr>
-            <td>14:00</td>
+            <td bgcolor="#F3F4F4">14:00</td>
         </tr>
         <tr>
-          <td>14:15</td>
+          <td bgcolor="#F3F4F4">14:15</td>
         </tr>
         <tr>
-            <td>14:30</td>
+            <td bgcolor="#F3F4F4">14:30</td>
         </tr>
         <tr>
-            <td>14:45</td>
+            <td bgcolor="#F3F4F4">14:45</td>
         </tr>
         <tr>
-            <td>15:00</td>
+            <td bgcolor="#F3F4F4">15:00</td>
             <td rowspan="6">
                 <b>Poster Session</b>
             </td>
@@ -86,40 +86,40 @@ If you would like to attend the conference please complete the registration whic
             </td>
         </tr>
         <tr>
-            <td>15:15</td>
+            <td bgcolor="#F3F4F4">15:15</td>
             <td rowspan="2">
                 <b>Break</b>
             </td>
         </tr>
         <tr>
-            <td>15:30</td>
+            < bgcolor="#F3F4F4">15:30</td>
             <td rowspan="7">
                 <b>Session 5</b>
             </td>
         </tr>
         <tr>
-            <td>15:45</td>
+            <td bgcolor="#F3F4F4">15:45</td>
             <td rowspan="7">
                 <b>Session 2</b>
             </td>
         </tr>
         <tr>
-            <td>16:00</td>
+            <td bgcolor="#F3F4F4">16:00</td>
         </tr>
         <tr>
-            <td>16:15</td>
+            <td bgcolor="#F3F4F4">16:15</td>
         </tr>
         <tr>
-            <td>16:30</td>
+            <td bgcolor="#F3F4F4">16:30</td>
             <td rowspan="4">
                 <b>Lightning Talks</b>
             </td>
         </tr>
         <tr>
-            <td>16:45</td>
+            <td bgcolor="#F3F4F4">16:45</td>
         </tr>
         <tr>
-            <td>17:00</td>
+            <td bgcolor="#F3F4F4">17:00</td>
         </tr>
         <tr>
             <td>17:15</td>
@@ -128,7 +128,7 @@ If you would like to attend the conference please complete the registration whic
             </td>
         </tr>
         <tr>
-            <td>17:30</td>
+            <td bgcolor="#F3F4F4">17:30</td>
             <td rowspan="1">
                 <b>End</b>
             </td>
