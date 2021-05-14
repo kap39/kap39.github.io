@@ -137,11 +137,7 @@ If you would like to attend the conference please complete the registration whic
                 <b>End</b>
             </td>            
         </tr>
-    </col>
-    </col>
-    </col>
-    </col>
-</table>
+
 
 
 
