@@ -1,6 +1,6 @@
 ---
 permalink: /SAMBa-Conference/
-title: "SAMBa Conference 2021"
+title: "SAMBa Conference"
 excerpt: "Information for the virtual SAMBa summer conference 2021"
 author_profile: false # true #sidebar content
 layout: archive
@@ -232,9 +232,9 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ### [Piotr Morawiecki](https://people.bath.ac.uk/pwm27/ "Website")
 > SAMBa Cohort 6
 >
->Title: From testing chemicals to foreseeing riots: Why Study Groups with Industry are fun.
+>Title: 
 >
->Abstract: Study Groups with Industry originated over 50 years ago in UK, which spread all over the world. These week-long workshops are great opportunity for the PhD students to get experience in using mathematical methods for solving real-world problems in collaboration with the industry. During this talk I will promote these workshops by giving audience a taste of variety of research topics that participants can work on. Three mini case studies will cover topics ranging from probability (optimising chemical testing process), through mathematical modelling (estimating conductance of heterogenous materials) to statistics (detecting abnormal behaviour in crowds), so people from all backgrounds may find something interesting.
+>Abstract:
 
 ### [Carlo Scali](https://people.bath.ac.uk/cs2458/ "Website")
 > SAMBa Cohort 6
