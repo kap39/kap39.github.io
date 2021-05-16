@@ -47,7 +47,7 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-/* Custon Colours */
+/* Custom Colours */
 
 $Cyber-Grape                : #564787;
 $Languid-Lavender           : #DBCBD8;
@@ -102,8 +102,8 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+$link-color-hover           : mix($Oxford-Blue, $link-color, 25%);
+$link-color-visited         : mix($primary-color, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
