@@ -22,14 +22,16 @@ Welcome to the fifth annual SAMBa Summer Conference, taking place 5th to 7th of 
 The SAMBa conference is an opportunity for students to showcase their work to members of the department, outside the department and at other Universities in a supportive environment. The work of SAMBa students covers the entire spectrum of statistical applied mathematics: including projects in statistics, probability, analysis, numerical analysis, mathematical biology, fluid dynamics, machine learning and high-performance computing. The conference is organized by students and contains talks by SAMBa students, external speakers, and students from other departments and institutions. 
 
 ## Important Documents
-More information coming soon. 
+Important information to the conference will be located here as they become available.   
+* All attendees are expected to follow the [code of conduct](https://kap39.github.io/files/CodeOfConduct.pdf "not yet available"). 
+
 
 
 # [Registration](#registration) 
-If you would like to attend the conference please complete the registration which can be found [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnrhm9py2vv5OqeESICF49LlUQUQyTVdSODlaVlhORExXQUc4ODQxT05ESyQlQCN0PWcu "Registration Form"). The deadline for registration to attend the conference is the **15th June**. 
+If you would like to attend the conference please complete the registration which can be found [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnrhm9py2vv5OqeESICF49LlUQUQyTVdSODlaVlhORExXQUc4ODQxT05ESyQlQCN0PWcu "Registration Form"). The deadline for registration to attend the conference is the **15th June**.
 
 # [Schedule](#schedule)
-
+Below is the schedule for the conference. The list of speakers can be found below the timetable with their titles and abstracts updated when they become available. Each session of talks is linked nominally by theme, given to provide an idea of focus for the session. 
 <table>
     <col width="10%">
     <col width="27%">
@@ -80,10 +82,10 @@ If you would like to attend the conference please complete the registration whic
         <tr>
             <td bgcolor="#F3F4F4">15:00</td>
             <td rowspan="6">
-                <b>Poster Session</b>
+                <b>Poster Session and break</b>
             </td>
             <td rowspan="2">
-                <b>Break</b>
+                <b>Break and Conference Photo</b>
             </td>
         </tr>
         <tr>
@@ -142,6 +144,8 @@ If you would like to attend the conference please complete the registration whic
         </tr>
 </table>
 
+## Conference Social Event
+More information to follow.
 
 
 # [Speakers](#speakers)
@@ -232,9 +236,9 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ### [Piotr Morawiecki](https://people.bath.ac.uk/pwm27/ "Website")
 > SAMBa Cohort 6
 >
->Title: 
+>Title: From testing chemicals to foreseeing riots: Why Study Groups with Industry are fun!
 >
->Abstract:
+>Abstract: : Study Groups with Industry originated over 50 years ago in UK, which spread all over the world. These week-long workshops are great opportunity for the PhD students to get experience in using mathematical methods for solving real-world problems in collaboration with industry. During this talk I will promote these workshops by giving the audience a taste of a variety of research topics that participants can work on. Three mini case studies will cover topics ranging from probability (optimising chemical testing process), through mathematical modelling (estimating conductance of heterogenous materials) to statistics (detecting abnormal behaviour in crowds), so people from all backgrounds may find something interesting.
 
 ### [Carlo Scali](https://people.bath.ac.uk/cs2458/ "Website")
 > SAMBa Cohort 6
