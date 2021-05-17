@@ -85,13 +85,13 @@ Below is the schedule for the conference. The list of speakers can be found belo
                 <b>Poster Session and break</b>
             </td>
             <td rowspan="2">
-                <b>Break and Conference Photo</b>
+                <b>Break</b>
             </td>
         </tr>
         <tr>
             <td bgcolor="#F3F4F4">15:15</td>
             <td rowspan="2">
-                <b>Break</b>
+                <b>Break and Conference Photo</b>
             </td>
         </tr>
         <tr>
