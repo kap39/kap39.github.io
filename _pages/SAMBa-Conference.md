@@ -22,7 +22,7 @@ Welcome to the fifth annual SAMBa Summer Conference, taking place 5th to 7th of 
 The SAMBa conference is an opportunity for students to showcase their work to members of the department, outside the department and at other Universities in a supportive environment. The work of SAMBa students covers the entire spectrum of statistical applied mathematics: including projects in statistics, probability, analysis, numerical analysis, mathematical biology, fluid dynamics, machine learning and high-performance computing. The conference is organized by students and contains talks by SAMBa students, external speakers, and students from other departments and institutions. 
 
 ## Important Documents
-
+More information coming soon. 
 
 
 # [Registration](#registration) 
