@@ -6,6 +6,10 @@ permalink: /posts/2021/03/Dual-booting-my-laptop
 
 ---
 
+My thoughts and rambles as I set about dual booting my laptop. 
+
+## Motivation 
+
 Having used a linux machine exclusively for the past three years, I would be lying to say that I was thrilled about switching to Windows when I got my new laptop. As Windows 10 came pre-installed I decided to see how far I could get adjusting to using the 'user-friendly' OS.  There are certain aspects of using Windows that are definitely appealing, for instance Microsoft Teams now having more than 4 people on display, and how easy it is to install some software is absolutely delightful, and don't get me started on the Matlab GUI! However, I do miss the ability to customize the GUI within lubuntu, and using Git through terminal is just easier, though I do now understand the desktop app at least. 
 I decided that three months was enough,though, and I'm now attempting to dual boot my machine. My previous installs of linux were relatively simplistic, since in my first machine I simply wiped the windows OS and replaced it with linux (it was a tiny hard drive and windows no longer fit: thus the switch), and then my last machine I managed to install a micro SSD allowing a dual hard drive run, so no partitioning was required. This time however, needs must I partition my SSD before dual booting, but I've already got windows installed. this post is to document my method should I need to replicate my movements. 
 
@@ -32,6 +36,7 @@ I don't know how to reinstall from this, but this should be a copy of the curren
  * It will take a while to copy all the files across so don't panic. Once the Status bar turns green, the USB is ready, so click 'Close' and remove the USB. 
 
  ## Dual Booting
+
   * It'll help if you turn off 'fast setup' in Windows first. Go into Control Panel; Power Options; Choose what power options do; Change settings that are currently available; and then unselect 'turn on fast start-up'. 
   * You might also have to disable BitLocker so the installer can see the hard-drive set up. To do this go into Control Panel; System and Security; BitLocker Drive Encryption; then turn BitLocker off. It might take a while to Decrypt the hard-drive but don't worry. From here you really should reboot your device and check everything works okay before continuing. 
   * With the newer (18 upwards?) Ubuntu installers there is an option inbuilt for installing alongside an already running windows boot. So you don't have to worry about pre-partitioning the hard drive since the installer will do that for you. 
