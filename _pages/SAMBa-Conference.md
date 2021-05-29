@@ -201,9 +201,10 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ### [Stefano Bruno](https://people.bath.ac.uk/sb2551/ "Website")
 > SAMBa Cohort 4
 >
->Title: 
+>Title: Regularity in time and space for stochastic porous media equations. 
 >
->Abstract:
+>Abstract: Stochastic porous media equations (SPME) are well-studied models describing non-linear diffusion dynamics perturbed by noise. In this talk, I will discuss the spatial and time regularity for solutions to these stochastic PDEs in Sobolev spaces.  I will introduce the notion of kinetic formulation for conservation laws which allows to transform SPME into “linear” stochastic PDEs and use this formulation in the derivation of the regularity estimates. At the end of the talk, I will compare our regularity results with the optimal regularity estimates obtained for the deterministic porous medium equation.  This is joint work with Benjamin Gess and Hendrik Weber. 
+
 
 ### [Margaret Duff](https://people.bath.ac.uk/magd21/ "Website")
 > SAMBa Cohort 5
@@ -229,9 +230,9 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ### [Yvonne Krumbeck](https://yvonnek-web.gitlab.io/bath/ "Website")
 > SAMBa Aligned Cohort 5
 >
->Title: 
+>Title: Fluctuation spectra of large random dynamical systems reveal hidden structure in ecological networks
 >
->Abstract:
+>Abstract: Understanding the relationship between complexity and stability in large dynamical systems -- such as ecosystems -- remains a key open question in complexity theory which has inspired a rich body of work developed over more than fifty years. The vast majority of this theory addresses asymptotic linear stability around equilibrium points, but the idea of 'stability' in fact has other uses in the empirical ecological literature. The important notion of `temporal stability' describes the character of fluctuations in population dynamics, driven by intrinsic or extrinsic noise. Here we apply tools from random matrix theory to the problem of temporal stability, deriving analytical predictions for the fluctuation spectra of complex ecological networks. We show that different network structures leave distinct signatures in the spectrum of fluctuations, and demonstrate the application of our theory to the analysis of ecological timeseries data of plankton abundances.
 
 ### [Piotr Morawiecki](https://people.bath.ac.uk/pwm27/ "Website")
 > SAMBa Cohort 6
@@ -243,9 +244,9 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ### [Carlo Scali](https://people.bath.ac.uk/cs2458/ "Website")
 > SAMBa Cohort 6
 >
->Title: 
+>Title: Scaling limits for sub-ballistic random walks in random environment
 >
->Abstract:
+>Abstract: Random walks in random environment were introduced by Solomon in 1975. This first model was defined by assigning independent and identically distributed jump probabilities on the 1-dimensional lattice Z with nearest neighbours' links. One of the many reasons why this basic model is very interesting is that the transient version showcases two different regimes. I will present the results in the literature that describe the sub-ballistic regime (i.e. the one for which the walk is transient but atypically slow due to the appearance of trapping phenomena), linking this to my current research that investigates a similar model: the random walk on random conductances. In particular, I will try to convince you that, even if the trapping mechanisms behave quite differently, the limiting behaviour of the two models is very much comparable.
 
 ### [Zsofia Tayigas](https://people.bath.ac.uk/zt354/ "Website")
 > SAMBa Cohort 5
@@ -257,9 +258,9 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ### [Jeremy Worsfold](https://jeremyworsfold.co.uk/ "Website")
 > SAMBa Cohort 6
 >
->Title:
+>Title: 
 >
->Abstract:
+>Abstract: 
 
 
 # [Coordinators](#coordinators)
