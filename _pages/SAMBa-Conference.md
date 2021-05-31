@@ -180,9 +180,9 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ### [Gianluca Aduone](https://researchportal.bath.ac.uk/en/persons/gianluca-audone "Website")
 > SAMBa Aligned Cohort 6
 >
->Title:
+>Title: Listening to the Ocean through time series
 >
->Abstract:
+>Abstract: The Earth is covered with large oceans, making up close to two thirds of its surface. Marine ecosystems are extremely reliant on sounds, for navigation, communication and predation. Underwater soundscapes are increasingly affected by human activities (like shipping) and climate change (warming oceans). In this talk, I will dive into the world of time series, in particular those collected worldwide by the international Comprehensive Test Ban Treaty Organization. The starting point of our journey will be ergodic stationary processes through which we will give a rigorous definition of time series and overview some analysis methods. All the presented notions will be applied to real world data showing how we can use them as a preliminary analysis tool.
 
 ### [Eleanor Barry](https://researchportal.bath.ac.uk/en/persons/eleanor-barry "Website")
 > SAMBa Cohort 4
@@ -194,9 +194,9 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ### [Thomas Bartos](https://researchportal.bath.ac.uk/en/persons/thomas-bartos "Website")
 > SAMBa Cohort 5
 >
->Title: 
+>Title: Accessibility percolation in a dynamic fitness landscape 
 >
->Abstract:
+>Abstract: The concept of a fitness landscape was originally introduced to model the evolution of a biological population. The landscape can be modelled as a finite graph with each vertex representing a genotype and each edge representing a possible mutational step between genotypes. Recently, progress has been made analysing a model known as ‘accessibility percolation’ in which random fitness values are assigned to vertices of a directed landscape and a path between vertices is called ‘accessible’ if the fitness values increase monotonically along the path. Here we introduce a dynamical version of accessibility percolation on a n-ary tree, which for the static model is known to exhibit a phase transition depending on the height of the tree. Using tools from the dynamical percolation and noise sensitivity literature, we investigate the probability that so-called ‘exceptional times’ of accessibility exist under different parameter regimes, our main result being that at the critical parameter value such times exist with high probability, in contrast to the static case. 
 
 ### [Stefano Bruno](https://people.bath.ac.uk/sb2551/ "Website")
 > SAMBa Cohort 4
