@@ -62,8 +62,8 @@ Below is the schedule for the conference. The list of speakers can be found belo
         <tr>
             <td bgcolor="#F3F4F4">13:15</td>
             <td rowspan="8">
-                <b>Discrete Probability</b> \
-                Chair: Chris \
+                <b>Discrete Probability</b><br>
+                Chair: Chris <br>
                 Speakers: Thomas Bartos, Edward Crane, Carlo Scali
             </td>
         </tr>
