@@ -187,9 +187,12 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ### [Eleanor Barry](https://researchportal.bath.ac.uk/en/persons/eleanor-barry "Website")
 > SAMBa Cohort 4
 >
->Title: 
+>Title: The inclusion of prevalent cohort data to understand the possible increased risk of cancer in patients with systemic sclerosis 
 >
->Abstract:
+>Abstract: In epidemiological studies, we are often interested in what effect an exposure (or disease or treatment) has on an outcome of interest. In the case of my research, we are interested in patients with systemic sclerosis (SSc), a rare autoimmune disease, and the outcome of interest is the incidence of cancer in this patient group.  This study may lead us to identify a possible link between SSc and cancer.   Within this research, the baseline group of patients are those who have or develop SSc, but the disease ‘of interest’, within this patient group, is cancer.  
+>Epidemiological survival data are now commonly collected in the UK.  This data may be from an ‘incident cohort’ (in our case, this is the cohort of patients who had SSc at the start of the study period or who develop SSc through the time period of the study – these patients may or may not develop cancer).  Alternatively, the data may be from a ‘prevalent disease’ cohort (in our case, this is patients who had an SSc diagnosis prior to the study but who did not have a cancer diagnosis at that time – they may have subsequently developed cancer).   
+>The dataset I am working with has the benefit of enabling us to study both incident and prevalent cohorts. Prevalent cohorts are often biased due to being left truncated, which leads to an oversampling of patients with longer disease duration. In my talk I will discuss prevalent cohort bias, and common methods to adjust for this. The disease SSc has the added complication of many patients being 'censored' due to an increased death risk, either from SSc itself or from other causes, meaning that we do not observe our event of interest (which in our case is cancer incidence).  We term this complication a competing event. I will discuss this interaction between the issues of biasing and competing events, the implications of these within a causal framework, and the impact of these on our study results.
+
 
 ### [Thomas Bartos](https://researchportal.bath.ac.uk/en/persons/thomas-bartos "Website")
 > SAMBa Cohort 5
@@ -209,16 +212,21 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ### [Margaret Duff](https://people.bath.ac.uk/magd21/ "Website")
 > SAMBa Cohort 5
 >
->Title: 
+>Title: Inverse problems and generative models 
 >
->Abstract:
+>Abstract: Solving an inverse problem is the process of calculating an unknown quantity from observed, potentially noisy, measurements. Inverse problems are everywhere. In just a few examples:  smart phone  cameras are denoising, deblurring, sharpening and correcting images; modern medicine uses  MRI, CT and  x-ray; and  geophysics uses seismic imaging to explore the centre of the earth.  Often the data is not sufficient to give a unique or stable solution to the inverse problem, and more information must be added. In a brain MRI scan we could say that the image must be sparse in some basis, must have a limited number of points with large gradients or must overall have small magnitude. In this work, what we would really like to do is tell the mathematics that we are looking at an MRI scan and moreover we are looking at a brain!
+>To do this, we use the technology that brought us the deep fake image of the queen in the Christmas message, that brought us apps that made us look younger or older (and may or may not steal our data)  and could be used to make celebrities say incriminating things in videos. Generative models are designed to generate data similar to some predefined training set. Perhaps instead of celebrities we can train our models to generate MRI images of brains, and then given some observed data, we choose the best image that matches the data? 
+>We explore this question in the talk, introducing a two common generative models, variational autoencoders and generative adversarial networks, and then considering a number of ways they can be applied to inverse problems. The talk will try and avoid too much mention of neural networks and will hopefully contain some cat images! 
+
 
 ### [Paolo Grazieschi](https://researchportal.bath.ac.uk/en/persons/paolo-grazieschi "Website")
 > SAMBa Aligned Cohort 5
 >
->Title: 
+>Title: Mesoscopic interaction, scaling limits and SPDEs
 >
->Abstract:
+>Abstract: The Ising-Kac model is an interacting particle system, where the interaction is of mesoscopic type: as such, each particle interacts with an infinite amount of other particles, yet a infinitesimal amount in the limit with respect to the total number of particles in the system. We show how to properly rescale this model and we analyse the limit, thereby introducing new recent results for the solution of Stochastic Partial Differential Equations.
+ 
+
 
 ### [Allen Hart](https://allenghart.wordpress.com/ "Website") & [Kevin Olding](https://mathsaurus.com/ "Website")
 > Both SAMBa Cohort 4 
@@ -258,9 +266,9 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ### [Jeremy Worsfold](https://jeremyworsfold.co.uk/ "Website")
 > SAMBa Cohort 6
 >
->Title: 
+>Title: Stochastic Kinematic Flows: Why do Fish Swarm and Traffic Jams form?
 >
->Abstract: 
+>Abstract: Organisms make decision based on individual information and goals yet they often form patterns or clusters due to these decisions. Both fluid models and interacting particles systems are used to try to understand this collective behaviour as it arises in many real-world scenarios from fish and locusts to humans in crowds or driving cars. In this talk I will present a general system of interacting Brownian particles which we will call agents. I will show that, for large numbers of particles, this is equivalent to some "kinematic flows". When we do not have a very large number of agents (as is often the case) we will also see that the random decisions made by agents can significantly change the overall behaviour. To see why this is useful I will then apply this to examples such as vehicle traffic and swarming fish.
 
 
 # [Coordinators](#coordinators)
