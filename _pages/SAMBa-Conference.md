@@ -49,16 +49,23 @@ Below is the schedule for the conference. The list of speakers can be found belo
                 <b>Opening Remarks</b>
             </td>
             <td rowspan="8">
-                <b>Session 3</b>
+                <b>Industrial and Applied Mathematics</b>
+                Chair: Katie 
+                Speakers: Gianluca Aduone, Katerina Kaouri, Piotr Morawiecki 
+
             </td>
             <td rowspan="8">
-                <b>Session 4</b>
+                <b>Mathematical Biology and Collective Behaviour</b>
+                Chair: Shahzeb
+                Speakers: Weini Huang, Yvonne Krumbeck, Jeremy Worsfold
             </td>
         </tr>
         <tr>
             <td bgcolor="#F3F4F4">13:15</td>
             <td rowspan="8">
-                <b>Session 1</b>
+                <b>Proability and Analysis</b>
+                Chair: Chris
+                Speakers: Thomas Bartos, Edward Crane, Carlo Scali
             </td>
         </tr>
         <tr>
@@ -97,13 +104,17 @@ Below is the schedule for the conference. The list of speakers can be found belo
         <tr>
             <td bgcolor="#F3F4F4">15:30</td>
             <td rowspan="7">
-                <b>Session 5</b>
+                <b>Probability and Analysis</b>
+                Chair: Yi Sheng
+                Speakers: Stefano Bruno, Paolo Grazieschi, Zsofia Tayigas
             </td>
         </tr>
         <tr>
             <td bgcolor="#F3F4F4">15:45</td>
             <td rowspan="7">
-                <b>Session 2</b>
+                <b>Statistics and Machine Learning</b>
+                Chair: Chris
+                Speakers: Eleanor Barry, Margaret Duff, Allen Hart and Kevin Olding
             </td>
         </tr>
         <tr>
@@ -156,16 +167,16 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ### [Edward Crane](https://people.maths.bris.ac.uk/~maetc/ "Website")
 > University of Bristol
 >
->Title: 
+>Title: Self-organized criticality in the mean-field forest fire model
 >
->Abstract: 
+>Abstract:  Various complex systems in nature are observed to have characteristics of criticality. This means they are qualitatively similar to simple physical systems that are tuned to a point of phase transition in their parameter space. For example, power law decay is empirically observed in the size distributions of avalanches, earthquakes, neuronal firing cascades in the brain, forest fires, and even financial crashes. An explanation is that these systems all have  negative feedback mechanisms that drive them into a critical state: they show self-organized criticality. A famous mathematical model for self-organized criticality is the abelian sandpile model. This talk will be about another abstract mathematical model which has been rigorously proven to have self-organized criticality. This is the mean field forest fire model introduced in 2009 by Rath and Toth.  It is a stochastic process of random graphs, closely related to the Erdos-Renyi random graph model. It has been analysed in two quite different ways, using a controlled inviscid Burgers equation and using critical multitype branching processes.  (Joint work with Nic Freeman, Balint Toth, Balazs Rath and Dominic Yeo.)
 
 ### [Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html "Website")
 > Queen Mary University of London
 >
->Title: 
+>Title: Mathematical models in evolutionary medicine --- example of modeling ecDNA dynamics.
 >
->Abstract: 
+>Abstract:  Evolutionary medicine is an interdisciplinary field applying methods from evolutionary biology, relevant mathematical models such as differential equations and stochastic process in understanding disease progress. Together with experimental biologists and clinicians, we work on quantifying the underlying stochastic process and properties of various biological complex systems. Our projects range from classical coevolutionary system as host-virus, host-parasite, predator-prey system to healthy liver tissue, brain/colon cancer through genomic data. Here, I will present one of our most recent projects on modelling the stochastic process of Extra-chromosomal DNA (ecDNA) and application on glioblastoma data. Glioblastoma is an aggressive type of brain cancer, where ecDNA can be a driving force of the tumour progress and treatment resistance. Typically thought to be produced during the cell replication, ecDNA is circular DNA found in cells outside of the chromosomes. Recently large-scale studies showed that ecDNA is highly prevalent in many types of cancer, with the highest prevalence in glioblastoma. Each cell can carry from zero to a large number of ecDNA copies. Because the lack of centromeres, ecDNA copies are segregated randomly into daughter cells, rather than evenly separated as standard chromosomal DNA. This stochastic process leads to an interesting ecDNA distribution among cells, which can be analysed mathematically. With collaboration with experimental groups, we developed a stochastic model and first confirmed random ecDNA segregation in experiments. Our theoretical results on the ecDNA distribution leads to testable predictions on how cells carrying ecDNA are positively selected and spread in the tumour population. We validate our predictions in various glioblastoma data, for example the ecDNA dynamics in GBM39 cell line experiments suggesting a 300% cell proliferation increase due to ecDNA. Our work estimates quantified properties of those ecDNA elements in individual tumours, which otherwise are hard to measure directly in clinical/experimental setups but important to adjust treatment strategies.
 
 ### [Katerina Kaouri](https://www.cardiff.ac.uk/people/view/1048719-kaouri-katerina "Website")
 > Cardiff University
