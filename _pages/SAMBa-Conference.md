@@ -49,22 +49,21 @@ Below is the schedule for the conference. The list of speakers can be found belo
                 <b>Opening Remarks</b>
             </td>
             <td rowspan="8">
-                <b>Industrial and Applied Mathematics</b>
-                Chair: Katie 
+                <b>Industrial and Applied Mathematics</b><br>
+                Chair: Katie <br>
                 Speakers: Gianluca Aduone, Katerina Kaouri, Piotr Morawiecki 
-
             </td>
             <td rowspan="8">
-                <b>Mathematical Biology and Collective Behaviour</b>
-                Chair: Shahzeb
+                <b>Mathematical Biology and Collective Behaviour</b><br>
+                Chair: Shahzeb<br>
                 Speakers: Weini Huang, Yvonne Krumbeck, Jeremy Worsfold
             </td>
         </tr>
         <tr>
             <td bgcolor="#F3F4F4">13:15</td>
             <td rowspan="8">
-                <b>Proability and Analysis</b>
-                Chair: Chris
+                <b>Proability and Analysis</b><br>
+                Chair: Chris<br>
                 Speakers: Thomas Bartos, Edward Crane, Carlo Scali
             </td>
         </tr>
@@ -104,16 +103,16 @@ Below is the schedule for the conference. The list of speakers can be found belo
         <tr>
             <td bgcolor="#F3F4F4">15:30</td>
             <td rowspan="7">
-                <b>Probability and Analysis</b>
-                Chair: Yi Sheng
+                <b>Probability and Analysis</b><br>
+                Chair: Yi Sheng <br>
                 Speakers: Stefano Bruno, Paolo Grazieschi, Zsofia Tayigas
             </td>
         </tr>
         <tr>
             <td bgcolor="#F3F4F4">15:45</td>
             <td rowspan="7">
-                <b>Statistics and Machine Learning</b>
-                Chair: Chris
+                <b>Statistics and Machine Learning</b> <br>
+                Chair: Chris<br>
                 Speakers: Eleanor Barry, Margaret Duff, Allen Hart and Kevin Olding
             </td>
         </tr>
