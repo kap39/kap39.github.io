@@ -187,7 +187,7 @@ Find below the full list of speakers, with titles and abstracts added as they be
 
 ## Student Speakers
 
-### [Gianluca Aduone](https://researchportal.bath.ac.uk/en/persons/gianluca-audone "Website")
+### [Gianluca Audone](https://researchportal.bath.ac.uk/en/persons/gianluca-audone "Website")
 > SAMBa Aligned Cohort 6
 >
 >Title: Listening to the Ocean through time series
@@ -268,7 +268,7 @@ Find below the full list of speakers, with titles and abstracts added as they be
 >
 >Abstract: Random walks in random environment were introduced by Solomon in 1975. This first model was defined by assigning independent and identically distributed jump probabilities on the 1-dimensional lattice Z with nearest neighbours' links. One of the many reasons why this basic model is very interesting is that the transient version showcases two different regimes. I will present the results in the literature that describe the sub-ballistic regime (i.e. the one for which the walk is transient but atypically slow due to the appearance of trapping phenomena), linking this to my current research that investigates a similar model: the random walk on random conductances. In particular, I will try to convince you that, even if the trapping mechanisms behave quite differently, the limiting behaviour of the two models is very much comparable.
 
-### [Zsofia Tayigas](https://people.bath.ac.uk/zt354/ "Website")
+### [Zsofia Talyigas](https://people.bath.ac.uk/zt354/ "Website")
 > SAMBa Cohort 5
 >
 >Title: Genealogies in a branching random walk with selection
