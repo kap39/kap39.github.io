@@ -51,7 +51,7 @@ Below is the schedule for the conference. The list of speakers can be found belo
             <td rowspan="8">
                 <b>Industrial and Applied Mathematics</b><br>
                 Chair: Katie <br>
-                Speakers: Gianluca Aduone, Katerina Kaouri, Piotr Morawiecki 
+                Speakers: Gianluca Audone, Katerina Kaouri, Piotr Morawiecki 
             </td>
             <td rowspan="8">
                 <b>Mathematical Biology and Collective Behaviour</b><br>
@@ -105,7 +105,7 @@ Below is the schedule for the conference. The list of speakers can be found belo
             <td rowspan="7">
                 <b>Probability and Analysis</b><br>
                 Chair: Yi Sheng <br>
-                Speakers: Stefano Bruno, Paolo Grazieschi, Zsofia Tayigas
+                Speakers: Stefano Bruno, Paolo Grazieschi, Zsofia Talyigas
             </td>
         </tr>
         <tr>
