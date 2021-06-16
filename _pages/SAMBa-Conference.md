@@ -28,7 +28,7 @@ Important information to the conference will be located here as they become avai
 
 
 # [Registration](#registration) 
-If you would like to attend the conference please complete the registration which can be found [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnrhm9py2vv5OqeESICF49LlUQUQyTVdSODlaVlhORExXQUc4ODQxT05ESyQlQCN0PWcu "Registration Form"). The deadline for registration to attend the conference is the **15th June**.
+<!--If you would like to attend the conference please complete the registration which can be found [here](https://forms.office.com/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnrhm9py2vv5OqeESICF49LlUQUQyTVdSODlaVlhORExXQUc4ODQxT05ESyQlQCN0PWcu "Registration Form"). The deadline for registration to attend the conference is the **15th June**.--> Public registration for the conference has now closed. This is in order to ensure numbers at social events and in person attendance. Anyone who wishes to register for virtual attendance should email one of the conference organisers as soon as possible, using the contact details at the bottom of this page. 
 
 # [Schedule](#schedule)
 Below is the schedule for the conference. The list of speakers can be found below the timetable with their titles and abstracts updated when they become available. Each session of talks is linked nominally by theme, given to provide an idea of focus for the session. 
@@ -148,14 +148,23 @@ Below is the schedule for the conference. The list of speakers can be found belo
             <td rowspan="1">
                 <b>End</b>
             </td>
-            <td rowspan="1">
+            <td rowspan="2">
                 <b>End</b>
             </td>            
+        </tr>
+                <tr>
+            <td bgcolor="#F3F4F4">(Evening)</td>
+            <td rowspan="1">
+                <b>Virtual Conference Event</b>
+            </td>
+            <td rowspan="1">
+                <b>In-Person Conference Dinner</b>
+            </td>           
         </tr>
 </table>
 
 ## Conference Social Event
-More information to follow.
+We will be holding a virtual social event on the Evening of July 5th and a socially distanced in person social event on Campus n the evening of July 6th. Conference Attendees will be contacted with more information of these events. 
 
 
 # [Speakers](#speakers)

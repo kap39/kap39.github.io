@@ -18,7 +18,7 @@ Please submit your homework to me via moodle, weekly before Wednesday at 9AM (GM
 - A2: Fridays 12:15
 - A3: Fridays 13:15
 
-
+<!--
 Week 1
 ======
 
@@ -212,3 +212,4 @@ Week 9
 ======
 
 * Central Forces
+-->
