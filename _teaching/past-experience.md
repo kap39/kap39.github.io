@@ -1,5 +1,5 @@
 ---
-title: "Past Experience"
+title: "Past Teaching Experience"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/past-experience
