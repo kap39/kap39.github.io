@@ -3,7 +3,7 @@ title: "Kat Does Maths"
 collection: SciComm
 type: "Science Communication"
 permalink: /SciComm/Streaming
-venue: 
+venue: ""
 date: 2021-06-01
 location: "Online"
 ---
