@@ -5,7 +5,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+
+  - title: "Science Communication"
+    url: /SciComm/
+
   - title: "SAMBa Conference '21"
     url: /SAMBa-Conference/
         

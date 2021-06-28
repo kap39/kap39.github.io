@@ -8,11 +8,11 @@ date: 2019-01-01
 location: "Bath, UK"
 ---
 
-Past Undergraduate tutoring experience
+I have been an undergraduate tutor since 2019 when I was in my final year of my undergraduate Masters degree. 
 
 2020/2021
 ======
-
+MA10236: Methods and Applications 1B, *University of Bath*
 MA10230: Methods and Applications 1A, *University of Bath* 
 MA10209: Algebra 1A, *University of Bath*
 
@@ -25,3 +25,4 @@ MA10230: Methods and Applications 1A, *University of Bath*
 ======
 
 MA1300: Mechanics I, *Cardiff University*
+MA1003: Computing for Mathematics, *Cardiff University*
