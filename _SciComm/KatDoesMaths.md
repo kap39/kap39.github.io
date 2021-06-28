@@ -1,8 +1,8 @@
 ---
-title: "Streaming"
+title: "Kat Does Maths"
 collection: teaching
 type: "Science Communication"
-permalink: /SciComm/Streaming
+permalink: /SciComm/KatDoesMaths
 venue: ""
 date: 2021-01-01
 location: ""
@@ -11,17 +11,20 @@ location: ""
 
 
 
-Twitch
+About
 ======
 
 coming soon.
 
 
-Resources
+Twitch
 =====
 
 coming soon. 
 
+
+Resources
+===
 Support 
 =====
 
