@@ -5,9 +5,7 @@ permalink: /SciComm/
 author_profile: true
 ---
 
-test
 {% include base_path %}
-
-{% for post in site.communication reversed %}
+{% for post in site.communication %}
   {% include archive-single.html %}
 {% endfor %}
