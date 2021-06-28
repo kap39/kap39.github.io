@@ -164,11 +164,11 @@ Below is the schedule for the conference. The list of speakers can be found belo
 </table>
 
 ## Conference Social Event
-We will be holding a virtual social event on the Evening of July 5th and a socially distanced in person social event on Campus n the evening of July 6th. Conference Attendees will be contacted with more information of these events. 
+We will be holding a virtual social event on the Evening of July 5th and a socially distanced in person social event on Campus in the evening of July 6th. Conference Attendees will be contacted with more information of these events. 
 
 
 # [Speakers](#speakers)
-Find below the full list of speakers, with titles and abstracts added as they become available. We are grateful to have a full schedule of speakers, but SAMBa students who wish to present a poster can get in contact as soon as possible. 
+Find below the full list of speakers, with titles and abstracts added as they become available. 
 
 ## Guest Speakers
  
@@ -292,9 +292,12 @@ Find below the full list of speakers, with titles and abstracts added as they be
 >Abstract: Organisms make decision based on individual information and goals yet they often form patterns or clusters due to these decisions. Both fluid models and interacting particles systems are used to try to understand this collective behaviour as it arises in many real-world scenarios from fish and locusts to humans in crowds or driving cars. In this talk I will present a general system of interacting Brownian particles which we will call agents. I will show that, for large numbers of particles, this is equivalent to some "kinematic flows". When we do not have a very large number of agents (as is often the case) we will also see that the random decisions made by agents can significantly change the overall behaviour. To see why this is useful I will then apply this to examples such as vehicle traffic and swarming fish.
 
 
+## Posters
+We are fortunate to have a selection of SAMBa students also presenting posters. These will be on display in the atrium during the conference, as well as held virtually in our online environment. For the full list of posters with their abstracts please look [here](https://kap39.github.io/files/Pster-title-abstract.pdf).
+
 # [Coordinators](#coordinators)
 
-The conference is being organised by 4 SAMBa PhD students. If you are interested in attending, giving a talk, or have any questions please feel free to contact any of us 
+The conference is being organised by 4 second year SAMBa PhD students. If you have any questions please feel free to contact any of us using the information below. 
 
 |Katie Phillips | Shahzeb Raja Noureen | Chris Dean | Yi Sheng Lim | 
 |:-------------:|:--------------------:|:----------:|:------------:|
