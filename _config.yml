@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Katie A. Phillips"
   avatar           : "profile.jpg"
-  bio              : "Mathematical PhD Student at the University of Bath</br>She/Her "
+  bio              : "Kat</br>Mathematical PhD Student at the University of Bath</br>She/Her "
   location         : "Bath, UK"
   employer         :
   pubmed           : 
   googlescholar    : #"-"
   email            :  "kap39@bath.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Katie-Phillips-17"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,14 +103,15 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5141-4797"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   tutorfair        : "https://www.tutorfair.com/tutor/name/katie/id/177592/profile"
-  twitter          : "KPhillips1796"
+  twitch           : "https://twitch.tv/KatDoesMaths"
+  twitter          : "KatDoesMaths"
   vine             :
   weibo            :
   xing             :
