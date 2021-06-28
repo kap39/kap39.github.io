@@ -1,6 +1,6 @@
 ---
 title: 'Kat Does Maths'
-date: 2021-06-28
+date: ""
 permalink: /SciComm/KatDoesMaths
 tags:
   - Streaming
