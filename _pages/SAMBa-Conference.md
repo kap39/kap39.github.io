@@ -51,12 +51,16 @@ Below is the schedule for the conference. The list of speakers can be found belo
             <td rowspan="8">
                 <b>Industrial and Applied Mathematics</b><br>
                 Chair: Katie <br>
-                Speakers: Gianluca Audone, Katerina Kaouri, Piotr Morawiecki 
+                Speakers: Piotr Morawiecki <br>
+                Katerina Kaouri <br>
+                Gianluca Audone 
             </td>
             <td rowspan="8">
                 <b>Mathematical Biology and Collective Behaviour</b><br>
                 Chair: Shahzeb<br>
-                Speakers: Weini Huang, Yvonne Krumbeck, Jeremy Worsfold
+                Speakers: Weini Huang<br>
+                 Yvonne Krumbeck<br>
+                  Jeremy Worsfold
             </td>
         </tr>
         <tr>
@@ -64,7 +68,9 @@ Below is the schedule for the conference. The list of speakers can be found belo
             <td rowspan="8">
                 <b>Discrete Probability</b><br>
                 Chair: Chris <br>
-                Speakers: Thomas Bartos, Edward Crane, Carlo Scali
+                Speakers:  Edward Crane<br>
+                 Carlo Scali <br>
+                 Thomas Bartos
             </td>
         </tr>
         <tr>
@@ -105,7 +111,9 @@ Below is the schedule for the conference. The list of speakers can be found belo
             <td rowspan="7">
                 <b>Probability and Analysis</b><br>
                 Chair: Yi Sheng <br>
-                Speakers: Stefano Bruno, Paolo Grazieschi, Zsofia Talyigas
+                Speakers: Paolo Grazieschi<br>
+                Stefano Bruno<br>
+                Zsofia Talyigas
             </td>
         </tr>
         <tr>
@@ -113,7 +121,9 @@ Below is the schedule for the conference. The list of speakers can be found belo
             <td rowspan="7">
                 <b>Statistics and Machine Learning</b> <br>
                 Chair: Chris<br>
-                Speakers: Eleanor Barry, Margaret Duff, Allen Hart and Kevin Olding
+                Speakers: Allen Hart and Kevin Olding <br> 
+                Eleanor Barry<br>
+                Margaret Duff
             </td>
         </tr>
         <tr>
@@ -175,23 +185,31 @@ Find below the full list of speakers, with titles and abstracts added as they be
 ### [Edward Crane](https://people.maths.bris.ac.uk/~maetc/ "Website")
 > University of Bristol
 >
->Title: <!--Self-organized criticality in the mean-field forest fire model -->
+>Title: Self-organized criticality in the mean-field forest fire model 
 >
->Abstract: <!-- Various complex systems in nature are observed to have characteristics of criticality. This means they are qualitatively similar to simple physical systems that are tuned to a point of phase transition in their parameter space. For example, power law decay is empirically observed in the size distributions of avalanches, earthquakes, neuronal firing cascades in the brain, forest fires, and even financial crashes. An explanation is that these systems all have  negative feedback mechanisms that drive them into a critical state: they show self-organized criticality. A famous mathematical model for self-organized criticality is the abelian sandpile model. This talk will be about another abstract mathematical model which has been rigorously proven to have self-organized criticality. This is the mean field forest fire model introduced in 2009 by Rath and Toth.  It is a stochastic process of random graphs, closely related to the Erdos-Renyi random graph model. It has been analysed in two quite different ways, using a controlled inviscid Burgers equation and using critical multitype branching processes.  (Joint work with Nic Freeman, Balint Toth, Balazs Rath and Dominic Yeo.) -->
+>Abstract:  Various complex systems in nature are observed to have characteristics of criticality. This means they are qualitatively similar to simple physical systems that are tuned to a point of phase transition in their parameter space. For example, power law decay is empirically observed in the size distributions of avalanches, earthquakes, neuronal firing cascades in the brain, forest fires, and even financial crashes. An explanation is that these systems all have  negative feedback mechanisms that drive them into a critical state: they show self-organized criticality. A famous mathematical model for self-organized criticality is the abelian sandpile model. This talk will be about another abstract mathematical model which has been rigorously proven to have self-organized criticality. This is the mean field forest fire model introduced in 2009 by Rath and Toth.  It is a stochastic process of random graphs, closely related to the Erdos-Renyi random graph model. It has been analysed in two quite different ways, using a controlled inviscid Burgers equation and using critical multitype branching processes.  (Joint work with Nic Freeman, Balint Toth, Balazs Rath and Dominic Yeo.) 
 
 ### [Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html "Website")
 > Queen Mary University of London
 >
->Title: <!--Mathematical models in evolutionary medicine --- example of modeling ecDNA dynamics. -->
+>Title: Mathematical models in evolutionary medicine --- example of modeling ecDNA dynamics. 
 >
->Abstract: <!-- Evolutionary medicine is an interdisciplinary field applying methods from evolutionary biology, relevant mathematical models such as differential equations and stochastic process in understanding disease progress. Together with experimental biologists and clinicians, we work on quantifying the underlying stochastic process and properties of various biological complex systems. Our projects range from classical coevolutionary system as host-virus, host-parasite, predator-prey system to healthy liver tissue, brain/colon cancer through genomic data. Here, I will present one of our most recent projects on modelling the stochastic process of Extra-chromosomal DNA (ecDNA) and application on glioblastoma data. Glioblastoma is an aggressive type of brain cancer, where ecDNA can be a driving force of the tumour progress and treatment resistance. Typically thought to be produced during the cell replication, ecDNA is circular DNA found in cells outside of the chromosomes. Recently large-scale studies showed that ecDNA is highly prevalent in many types of cancer, with the highest prevalence in glioblastoma. Each cell can carry from zero to a large number of ecDNA copies. Because the lack of centromeres, ecDNA copies are segregated randomly into daughter cells, rather than evenly separated as standard chromosomal DNA. This stochastic process leads to an interesting ecDNA distribution among cells, which can be analysed mathematically. With collaboration with experimental groups, we developed a stochastic model and first confirmed random ecDNA segregation in experiments. Our theoretical results on the ecDNA distribution leads to testable predictions on how cells carrying ecDNA are positively selected and spread in the tumour population. We validate our predictions in various glioblastoma data, for example the ecDNA dynamics in GBM39 cell line experiments suggesting a 300% cell proliferation increase due to ecDNA. Our work estimates quantified properties of those ecDNA elements in individual tumours, which otherwise are hard to measure directly in clinical/experimental setups but important to adjust treatment strategies. -->
+>Abstract: Evolutionary medicine is an interdisciplinary field applying methods from evolutionary biology, relevant mathematical models such as differential equations and stochastic process in understanding disease progress. Together with experimental biologists and clinicians, we work on quantifying the underlying stochastic process and properties of various biological complex systems. Our projects range from classical coevolutionary system as host-virus, host-parasite, predator-prey system to healthy liver tissue, brain/colon cancer through genomic data. Here, I will present one of our most recent projects on modelling the stochastic process of Extra-chromosomal DNA (ecDNA) and application on glioblastoma data. Glioblastoma is an aggressive type of brain cancer, where ecDNA can be a driving force of the tumour progress and treatment resistance. Typically thought to be produced during the cell replication, ecDNA is circular DNA found in cells outside of the chromosomes. Recently large-scale studies showed that ecDNA is highly prevalent in many types of cancer, with the highest prevalence in glioblastoma. Each cell can carry from zero to a large number of ecDNA copies. Because the lack of centromeres, ecDNA copies are segregated randomly into daughter cells, rather than evenly separated as standard chromosomal DNA. This stochastic process leads to an interesting ecDNA distribution among cells, which can be analysed mathematically. With collaboration with experimental groups, we developed a stochastic model and first confirmed random ecDNA segregation in experiments. Our theoretical results on the ecDNA distribution leads to testable predictions on how cells carrying ecDNA are positively selected and spread in the tumour population. We validate our predictions in various glioblastoma data, for example the ecDNA dynamics in GBM39 cell line experiments suggesting a 300% cell proliferation increase due to ecDNA. Our work estimates quantified properties of those ecDNA elements in individual tumours, which otherwise are hard to measure directly in clinical/experimental setups but important to adjust treatment strategies. 
 
 ### [Katerina Kaouri](https://www.cardiff.ac.uk/people/view/1048719-kaouri-katerina "Website")
 > Cardiff University
 >
->Title: 
+>Title: Modelling the transmission of COVID-19 in indoor spaces
 >
->Abstract
+>In Collaboration: Zechariah Lau<sup>1,2</sup>, Ian Griffiths<sup>1</sup>, Aaron English<sup>3</sup>, Raquel González Fariña<sup>1</sup>, Alexander Ramage<sup>1</sup>, Katerina Kaouri<sup>1</sup>
+>1 School of Mathematics, Cardiff University
+>2 Mathematical Sciences Institute, University of Oxford
+>3 Department of Mechanical, Aerospace and Civil Engineering, The University of Manchester
+>
+>Abstract: As the pandemic continues to rage we need to urgently find ways to safely resume economic and social activities while containing the virus. The transmission of COVID-19 in indoor spaces has been intensively researched since the beginning of the pandemic, especially in highly frequented spaces such as healthcare clinics, schools, nursing homes, supermarkets and public transport. We have, thus, developed an efficient model for determining the spatiotemporally varying risk of infection from COVID-19 in indoor spaces. The airborne infectious particles are emitted by an infected person, advected by airflow, diffused due to turbulence, and removed due to the room ventilation, biological inactivation of the virus and gravitational settling. We model these processes using an advection-diffusion-reaction equation and determine the concentration of the particles in the room, leveraging the semi-analytic solution to run very fast simulations. Also, as there are many particle sizes involved in viral transmission (due to breathing, talking, coughing etc.) we have extended the modelling framework to account for realistic particle size distributions. We find that the one-particle-size assumption used in many models can lead to wrong predictions of the infection risk in a room. Finally, we determine the Time to Probable Infection (TTPI), paving the way for formulating policy recommendations. Good agreement with CFD models and existing data has been obtained.
+>For more information: https://arxiv.org/abs/2012.12267
+
+
 
 
 ## Student Speakers
