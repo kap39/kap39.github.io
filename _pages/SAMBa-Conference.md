@@ -51,14 +51,14 @@ Below is the schedule for the conference. The list of speakers can be found belo
             <td rowspan="8">
                 <b>Industrial and Applied Mathematics</b><br>
                 Chair: Katie <br>
-                Speakers: Piotr Morawiecki <br>
+                Speakers: <br>Piotr Morawiecki <br>
                 Katerina Kaouri <br>
                 Gianluca Audone 
             </td>
             <td rowspan="8">
                 <b>Mathematical Biology and Collective Behaviour</b><br>
                 Chair: Shahzeb<br>
-                Speakers: Weini Huang<br>
+                Speakers: <br>Weini Huang<br>
                  Yvonne Krumbeck<br>
                   Jeremy Worsfold
             </td>
@@ -68,7 +68,7 @@ Below is the schedule for the conference. The list of speakers can be found belo
             <td rowspan="8">
                 <b>Discrete Probability</b><br>
                 Chair: Chris <br>
-                Speakers:  Edward Crane<br>
+                Speakers: <br> Edward Crane<br>
                  Carlo Scali <br>
                  Thomas Bartos
             </td>
@@ -111,7 +111,7 @@ Below is the schedule for the conference. The list of speakers can be found belo
             <td rowspan="7">
                 <b>Probability and Analysis</b><br>
                 Chair: Yi Sheng <br>
-                Speakers: Paolo Grazieschi<br>
+                Speakers: <br>Paolo Grazieschi<br>
                 Stefano Bruno<br>
                 Zsofia Talyigas
             </td>
@@ -121,7 +121,7 @@ Below is the schedule for the conference. The list of speakers can be found belo
             <td rowspan="7">
                 <b>Statistics and Machine Learning</b> <br>
                 Chair: Chris<br>
-                Speakers: Allen Hart and Kevin Olding <br> 
+                Speakers: <br>Allen Hart and Kevin Olding <br> 
                 Eleanor Barry<br>
                 Margaret Duff
             </td>
@@ -201,10 +201,10 @@ Find below the full list of speakers, with titles and abstracts added as they be
 >
 >Title: Modelling the transmission of COVID-19 in indoor spaces
 >
->In Collaboration: Zechariah Lau<sup>1,2</sup>, Ian Griffiths<sup>1</sup>, Aaron English<sup>3</sup>, Raquel González Fariña<sup>1</sup>, Alexander Ramage<sup>1</sup>, Katerina Kaouri<sup>1</sup>
->1 School of Mathematics, Cardiff University
->2 Mathematical Sciences Institute, University of Oxford
->3 Department of Mechanical, Aerospace and Civil Engineering, The University of Manchester
+>In Collaboration: Zechariah Lau<sup>1,2</sup>, Ian Griffiths<sup>1</sup>, Aaron English<sup>3</sup>, Raquel González Fariña<sup>1</sup>, Alexander Ramage<sup>1</sup>, Katerina Kaouri<sup>1</sup> <br>
+>1 School of Mathematics, Cardiff University <br>
+>2 Mathematical Sciences Institute, University of Oxford <br>
+>3 Department of Mechanical, Aerospace and Civil Engineering, The University of Manchester <br>
 >
 >Abstract: As the pandemic continues to rage we need to urgently find ways to safely resume economic and social activities while containing the virus. The transmission of COVID-19 in indoor spaces has been intensively researched since the beginning of the pandemic, especially in highly frequented spaces such as healthcare clinics, schools, nursing homes, supermarkets and public transport. We have, thus, developed an efficient model for determining the spatiotemporally varying risk of infection from COVID-19 in indoor spaces. The airborne infectious particles are emitted by an infected person, advected by airflow, diffused due to turbulence, and removed due to the room ventilation, biological inactivation of the virus and gravitational settling. We model these processes using an advection-diffusion-reaction equation and determine the concentration of the particles in the room, leveraging the semi-analytic solution to run very fast simulations. Also, as there are many particle sizes involved in viral transmission (due to breathing, talking, coughing etc.) we have extended the modelling framework to account for realistic particle size distributions. We find that the one-particle-size assumption used in many models can lead to wrong predictions of the infection risk in a room. Finally, we determine the Time to Probable Infection (TTPI), paving the way for formulating policy recommendations. Good agreement with CFD models and existing data has been obtained.
 >For more information: https://arxiv.org/abs/2012.12267
