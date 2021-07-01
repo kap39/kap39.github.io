@@ -1,8 +1,9 @@
 ---
 title: 'Kat Does Maths'
 collection: scicomm
-date: 2021-06-28
+type: scicomm
 permalink: /SciComm/KatDoesMaths
+date: 2021-06-28
 tags:
   - communication
 ---
