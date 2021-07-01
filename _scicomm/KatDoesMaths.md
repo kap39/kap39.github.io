@@ -1,5 +1,6 @@
 ---
 title: 'Kat Does Maths'
+layout: archive
 collection: scicomm
 type: scicomm
 permalink: /SciComm/KatDoesMaths
