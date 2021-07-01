@@ -4,8 +4,7 @@ collection: scicomm
 type: scicomm
 permalink: /SciComm/KatDoesMaths
 show_date: false
-tags:
-  - communication
+
 ---
 
- Coming Soon. no date?
+ Coming Soon. no date? really no date
