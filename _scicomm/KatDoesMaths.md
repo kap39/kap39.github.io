@@ -3,8 +3,9 @@ title: 'Kat Does Maths'
 collection: scicomm
 type: scicomm
 permalink: /SciComm/KatDoesMaths
+show_date: false
 tags:
   - communication
 ---
 
- Coming Soon. 
+ Coming Soon. no date?
