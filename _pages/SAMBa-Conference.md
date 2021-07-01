@@ -311,7 +311,7 @@ Find below the full list of speakers, with titles and abstracts added as they be
 
 
 ## Posters
-We are fortunate to have a selection of SAMBa students also presenting posters. These will be on display in the atrium during the conference, as well as held virtually in our online environment. For the full list of posters with their abstracts please look [here](https://kap39.github.io/files/Pster-title-abstract.pdf).
+We are fortunate to have a selection of SAMBa students also presenting posters. These will be on display in the atrium during the conference, as well as held virtually in our online environment. For the full list of posters with their abstracts please look [here](https://kap39.github.io/files/Poster-title-abstract.pdf).
 
 # [Coordinators](#coordinators)
 
