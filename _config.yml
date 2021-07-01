@@ -189,6 +189,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  communcation:
+    output: true
+    permalink: /SciComm/:path/
 
 
 # Defaults
