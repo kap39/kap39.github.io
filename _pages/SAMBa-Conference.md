@@ -24,6 +24,8 @@ The SAMBa conference is an opportunity for students to showcase their work to me
 ## Important Documents
 Important information to the conference will be located here as they become available.   
 * All attendees are expected to follow the [code of conduct](https://kap39.github.io/files/CodeOfConduct.pdf "not yet available"). 
+* If you would like to upload a selfie or photo of yourself to be added to the conference photo you can upload them [here](https://formfaca.de/sm/ta5gAoQMF).
+* Welcome Slides can be found [here](https://kap39.github.io/files/WelcomeSlides.pdf)
 
 
 
