@@ -10,26 +10,28 @@ redirect_from:
 ---
 
 ## Biography
-I'm a postgraduate student at the University of Bath, studying for my integrated PhD in mathematics with the EPSRC Centre for Doctoral Training in Statistical Applied Mathematics (SAMBa). Prior to this, I completed my undergraduate masters degree at Cardiff Univeristy. I have been tutoring first year undergraduate mathematics for nearly three years and, for just over a year I've beein doing [private tuition](https://kap39.github.io/teaching/private-tuition) for KS3, GCSE and A level mathematics students.   
+I'm a postgraduate student at the University of Bath, studying for my integrated PhD in mathematics with the EPSRC Centre for Doctoral Training in Statistical Applied Mathematics (SAMBa). Prior to this, I completed my undergraduate masters degree at Cardiff Univeristy. I have been tutoring first year undergraduate mathematics since 2018 and, I've been doing [private tuition](https://kap39.github.io/teaching/private-tuition) for KS3, GCSE and A level mathematics students since 2019.   
 
-Outside of academia I can be found enjoying various different aerial sports, circus skills and acroyoga. I'm also an avid rugby fan and have been a supporter of my home side The Ospreys since their formation. A fun fact about me: I had my [local stadium named after me](https://www.ospreysrugby.com/news/welcome-katie-phillips-stadium) for their 10<sup>th</sup> anniversary. 
+Outside of academia I can be found enjoying various different aerial sports, circus skills and acroyoga. I'm also an avid rugby fan and have been a supporter of my home side The Ospreys since their formation. A fun fact about me: I had my local stadium named after me as part of their 10<sup>th</sup> anniversary celebrations. 
 
 
 ## Responsibilities and  Involvements
 
 #### Current
-  * One of the organisers for the '21 virtual [SAMBa Conference](https://kap39.github.io/SAMBa-Conference)
   * Vice President of the Uni of Bath SIAM and IMA student chapter. 
   * STEM Ambassador since _'17_. 
   * One of the coordinators of the Maths Department Yoga sessions and self-appointed emperor of department weekly drinks. 
 
 #### Previous
+  * SAMBa Summer conference co-organiser _Jul '21_
   * Student-led Symposia coordinator _Semester 1 '19/20_
   * One of the coordinators for SAMBA's Integrative Think Tank (ITT 11) _Jan '20_
   * Bathematician volunteer _'19/20_
 
 
 ## Conferences and Symposia
+  * Represented UoB student chapter at the [SIAM Annual Meeting](https://www.siam.org/conferences/cm/conference/an21) - _Jul '21_
+  * Organised 5th annual [SAMBa Summer Conference](https://kap39.github.io/SAMBa-Conference) - _Jul '21'_
   * Attended the Univeristy of Bath [Women in Maths Conference](https://www.bath.ac.uk/events/bath-women-in-maths-conference-2021/) - _Mar '21_
   * Attended SAMBa's virtual [13<sup>th</sup> Integrative think tank](https://people.bath.ac.uk/mtp34/itt13.html) - _Jan '21_
   * Attended SAMBa's virtual [12<sup>th</sup> Integrative think tank](https://www.bath.ac.uk/events/integrative-think-tank-12/) - _Sept '20_
@@ -48,7 +50,6 @@ kap39 at bath.ac.uk
 
 ## Address:
 <address>
-Office 4W 2.19 <br />
 Department of Mathematical Sciences <br />
 University of Bath<br />
 Bath <br />
