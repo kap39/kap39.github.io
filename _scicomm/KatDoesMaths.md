@@ -8,6 +8,22 @@ show_date: false
 ---
 
 I currently stream three times a week on my twitch channel [KatDoesMaths](https://twitch.tv/katdoesmaths)...
+ 
+ <!-- Add a placeholder for the Twitch embed -->
+    <div id="twitch-embed"></div>
+
+<!-- Load the Twitch embed JavaScript file -->
+    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+<!-- Create a Twitch.Embed object that will render within the "twitch-embed" element -->
+    <script type="text/javascript">
+      new Twitch.Embed("twitch-embed", {
+        width: 854,
+        height: 480,
+        channel: "KatDoesMaths",
+        parent: ["twitch.tv/katdoesmaths"]
+      });
+    </script>
 
 Whilst I love the more traditional methods of science communication, and will take any opportunity to get involved in outreach events, I wanted to join the ever-growing community of science streamers on twitch. I find that twitch provides a unique opportunity to have less formal science communication, where there is no constraint on time limit or objective to be met, and the conversation between educator and audience can be more organic and cover topics in a manner that is not necessarily suited to a formal video or lecture. That's not to say I don't want to bring some of the traditional rigor to my twitch stream - I'd love to do an occasional lecture every now and then, for my benefit as much as yours, since I am hoping to use the platform to not only share my passion for mathematics, but also improve how I get that point across. 
 
