@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Kat Does Maths"
+title                    : "KatDoesMaths"
 title_separator          : "-"
 name                     : &name "Katie A. Phillips"
 description              : &description "PhD Student at the University of Bath"
