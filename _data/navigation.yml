@@ -4,7 +4,10 @@ main:
     url: /Research/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+    
+  - title: "Twitch"
+    url: /twitch/
 
   - title: "Outreach"
     url: /Outreach/
