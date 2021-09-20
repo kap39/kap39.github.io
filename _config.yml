@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Katie A. Phillips"
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpeg"
   bio              : "Kat</br>Mathematical PhD Student at the University of Bath</br>She/Her "
   location         : "Bath, UK"
   employer         :
@@ -99,7 +99,7 @@ author:
   github           : "kap39"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "KatDoesMaths"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -115,7 +115,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "KatDoesMaths"
   wikipedia        :
 
 
@@ -269,7 +269,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: GB # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

@@ -6,14 +6,34 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Science Communication"
-    url: /SciComm/
+  - title: "Outreach"
+    url: /Outreach/
 
-  - title: "SAMBa Conference '21"
-    url: /SAMBa-Conference/
+  - title: "Blog"
+    url: /Blog/
   
-  - title: "Other SAMBa Pages"
-    url: /SLS-ITT/
+  - title: "SAMBa Pages"
+    url: /SAMBa/
+
+#outreach: 
+ # - title: "Twitch"
+  #  url: /Outreach/Twitch
+
+#  - title: "STEM Ambassador"
+#    url: /Outreach/STEM-Ambassador
+
+#  - title: "Bathematicians"
+#    url: /Outreach/Bathematicians
+
+#teaching: 
+#  - title: "Undergraduate"
+#    url: /teaching/Undergrad
+
+#  - title: "Private Tuition"
+#      url: /Teaching/Private-Tuition
+
+#  - title: "Resources"
+#    url: /Teaching/Resources
 
 conf:
   - title: "Welcome and Information"
