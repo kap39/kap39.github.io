@@ -6,14 +6,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Outreach"
-    url: /Outreach/
+  - title: "Science Communication"
+    url: /SciComm/
 
-  - title: "Blog"
-    url: /Blog/
+  - title: "SAMBa Conference '21"
+    url: /SAMBa-Conference/
   
-  - title: "SAMBa Pages"
-    url: /SAMBa/
+  - title: "Other SAMBa Pages"
+    url: /SLS-ITT/
 
 conf:
   - title: "Welcome and Information"
