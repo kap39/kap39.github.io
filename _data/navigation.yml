@@ -1,17 +1,20 @@
 # main links links
 main:
+  - title: "About"
+      url: /About/
+
   - title: "Research"
     url: /Research/    
 
   - title: "Teaching"
     url: /teaching/   
     
-  - title: "Twitch"
-    url: /twitch/
-
   - title: "Outreach"
     url: /Outreach/
 
+  - title: "Twitch"
+    url: /twitch/
+    
   - title: "Blog"
     url: /Blog/
   
