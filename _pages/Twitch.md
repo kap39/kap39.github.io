@@ -11,5 +11,4 @@ header:
 excerpt: "Kat Does Maths"
 ---
 
-You can find my twitch channel at
-[Twitch Channel](https://twitch.tv/KatDoesMaths)
+I currently stream 2/3 times a week on my channel [KatDoesMaths](https://twitch.tv/KatDoesMaths). The aim of the streams is to bring science communication to a broader audience. 

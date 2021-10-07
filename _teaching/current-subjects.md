@@ -28,6 +28,22 @@ Please submit your homework to the correct pigeonhole by no later than Tuesday a
 * Surface Area of Revolution
 * Sketches and Classic Shapes
 
+### Tutorial Quiz 
+
+1. For the continuous function \$ f(x) \$: 
+    * What is the notation for derivative with respect to \$ x\$ (list as many as possible) ?
+    * What is the notation for the indefinite integral?
+    * What is the notation for definite integral over \$ [a,b]\$
+2. State the Fundamental Theorem of Calculus. 
+3. What is the relation between \$ \int_a^b f(x) dx \$ and \$ \int_b^a f(x) dx\$. 
+4. For a continuous function \$ f(x)\$ over an interval \$[a,b]\$
+    * What is the equation of Arc Length \$S\$?
+    * What is the equation of Surface Area of Revolution, \$A \$? 
+5. Sketch the following functions 
+    * \$ y = \cosh(x) \$
+    * \$ y = \sinh(x) \$
+    * \$ y = \tanh(x) \$
+
 
 <!--
 ## Week 2 - Coordinate Systems
