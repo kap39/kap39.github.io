@@ -1,7 +1,7 @@
 ---
 title: 'St Davids Day Cawl'
 date: 2021-02-24
-permalink: /posts/2021/02/St-Davids-Day-Cawl
+permalink: /posts/St-Davids-Day-Cawl
 tags:
   - Recipe
 ---

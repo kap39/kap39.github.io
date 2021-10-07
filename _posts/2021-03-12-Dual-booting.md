@@ -1,12 +1,13 @@
 ---
 title: 'Dual Booting my laptop'
 date: 2021-03-12
-permalink: /posts/2021/03/Dual-booting-my-laptop
+permalink: /posts/Dual-Booting
+tags: 
   - How to Guide
 
 ---
 
-My thoughts and rambles as I set about dual booting my laptop. 
+My thoughts and rambles as I set about dual booting my laptop. Also first attempt at a blog-type thing so don't expect anything wonderful. However if you do want to try and dual boot from windows this is a pretty much a comprehensive how-to guide. Enjoy!
 
 ## Motivation 
 
@@ -37,7 +38,7 @@ I don't know how to reinstall from this, but this should be a copy of the curren
 
  ## Dual Booting
 
-  * It'll help if you turn off 'fast setup' in Windows first. Go into Control Panel; Power Options; Choose what power options do; Change settings that are currently available; and then unselect 'turn on fast start-up'. 
+  * It'll help if you turn off 'fast setup' in Windows first. Go into Control Panel; Power Options; Choose what power options do; Change settings that are currently available; and then un-select 'turn on fast start-up'. 
   * You might also have to disable BitLocker so the installer can see the hard-drive set up. To do this go into Control Panel; System and Security; BitLocker Drive Encryption; then turn BitLocker off. It might take a while to Decrypt the hard-drive but don't worry. From here you really should reboot your device and check everything works okay before continuing. 
   * With the newer (18 upwards?) Ubuntu installers there is an option inbuilt for installing alongside an already running windows boot. So you don't have to worry about pre-partitioning the hard drive since the installer will do that for you. 
   * Restart the laptop with the live USB plugged in and interrupt the usual start menu. It helps if you turn off 'fast boot' in Windows before doing this. On my Thinkpad X1C8, interrupting is hitting 'Enter' as soon as the lenovo logo appears. 
@@ -48,11 +49,11 @@ I don't know how to reinstall from this, but this should be a copy of the curren
   * It's often easier to choose to to install the other options alongside the install, but up to you. 
   * Now you want to choose 'Install Ubuntu alongside Windows 10/Windows boot'. If you want to customise partitions etc then you choose something else. 
   * If you need to disable BitLocker this is the point where it will tell you. 
-  * You'll next be shown a slider bar to choose how much space you want to give to the Ubuntu partition. Different people say different things, some have a minimum of 10GB, others say 30GB. I have a 512GB hard-drive and when this page loaded it was set to 180GB for Ubuntu. Seeing as one of my previous issues was lack of storage I figured this seemed like a good split. Especially when I want to keep windows for recreation (gaming and online calls) thiis seemed like a good amount of storage for all the software/storage I need for work. I may be completely wrong but we'll see what happens. 
+  * You'll next be shown a slider bar to choose how much space you want to give to the Ubuntu partition. Different people say different things, some have a minimum of 10GB, others say 30GB. I have a 512GB hard-drive and when this page loaded it was set to 180GB for Ubuntu. Seeing as one of my previous issues was lack of storage I figured this seemed like a good split. Especially when I want to keep windows for recreation (gaming and online calls) this seemed like a good amount of storage for all the software/storage I need for work. I may be completely wrong but we'll see what happens. 
   * Once you're comfortable with the space allocation, hit install now. 
   * The installation, for me, only took 10 minutes, but can take a while, so don't worry. 
   * You need to answer general questions about the timezone, username, passwords etc. 
-  * Once the install in complete you need to reboot. It should launch into GRUB loader, but ifyou don't select anything it will default to Ubuntu. 
+  * Once the install in complete you need to reboot. It should launch into GRUB loader, but if you don't select anything it will default to Ubuntu. 
 
   Enjoy!
   Next time, we look at different desktop environments, and customising linux to something I want to use! 
