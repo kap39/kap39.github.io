@@ -23,10 +23,16 @@ Please submit your homework to the correct pigeonhole by no later than Tuesday a
 
 
 ## Week 1 - Integrals, Lengths and Areas
+For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
+* Arc length \$ S(a,b) = \int_a^b \sqrt{1+\left(\frac{dy}{dx}\right)^2}dx \$
+* Surface Area of Revolution \$ A(z,b) = \int_a^b 2\pi y\sqrt{1+\left(\frac{dy}{dx}\right)^2} dx \$
+* Sketches and Classic Shapes. When you're going to sketch a graph you need to keep track of a few behaviours of the graph
+    * What happens to the graph at \$ \pm \infty\$ . 
+    * Are there any asymptotes? 
+    * What is the behaviour of the of the gradient? Is it increasing, decreasing?
+    * Where are the max/min stationary points?
+    * Where does it cross the axes? 
 
-* Arc length
-* Surface Area of Revolution
-* Sketches and Classic Shapes
 
 ### Tutorial Quiz 
 
@@ -45,13 +51,22 @@ Please submit your homework to the correct pigeonhole by no later than Tuesday a
     * \$ y = \tanh(x) \$
 
 
-<!--
+
 ## Week 2 - Coordinate Systems
 
  *  Cartesian Coordinates
  *  Cylindrical Polar Coordinates
  *  Spherical Polar Coordinates
 
+### Tutorial Quiz 
+
+ 1.
+ 2. 
+ 3. 
+ 4. 
+ 5. 
+
+<!--
 ## Week 3 - Partial Differentials
 
 * Partial Differentiation
@@ -83,3 +98,4 @@ Please submit your homework to the correct pigeonhole by no later than Tuesday a
 ## Week 10
 ## Week 11
  --->
+
