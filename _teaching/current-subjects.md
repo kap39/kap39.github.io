@@ -17,7 +17,7 @@ This is the section for the semester 1 module, MA10230, for the academic year 21
 
 ## Deadlines and Tutorial information
 
-Please submit your homework to the correct pigeonhole by no later than Tuesday at _TBC_. Tutorials will be held weekly in person in the later half of the week. Please email me if you are going to miss a tutorial or can't make this homework deadline if you require an extension. 
+Please submit your homework to the correct pigeonhole by no later than Tuesday at 5pm. Tutorials will be held weekly in person in the later half of the week. Please email me if you are going to miss a tutorial or can't make this homework deadline if you require an extension. 
 <!-- B3: Thursday 16:15 6E 3.11
     A2: Friday 13:15 10W 2.01 -->
 
