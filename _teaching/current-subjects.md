@@ -64,7 +64,7 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
  2. What shape is given by \$ r= 3 \$ in cylindrical polar coordinates?
  3. For constants \$ a,b,c\$ describe the shape of \$ r=a, \theta=b, \phi = c\$ in spherical coordinates.
  4. True or False
-    * The equations \$ \phi = 2\$ and \$ x^2 + y^2 + z^2 = 2\$ represent the same surface.
+    * The equations \$ r = 2\$ and \$ x^2 + y^2 + z^2 = 2\$ represent the same surface.
     * The coordinates of a point in cylindrical coordinates are unique
     * The coordinates of a point in cartesian coordinates are unique. 
     * The equation of a cardoid is \$ r = 1-cos(\theta) \$.
