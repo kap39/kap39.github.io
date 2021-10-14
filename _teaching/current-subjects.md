@@ -33,7 +33,7 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
     * Where are the max/min stationary points?
     * Where does it cross the axes? 
 
-
+<!--
 ### Tutorial Quiz 
 
 1. For the continuous function \$ f(x) \$: 
@@ -49,7 +49,7 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
     * \$ y = \cosh(x) \$
     * \$ y = \sinh(x) \$
     * \$ y = \tanh(x) \$
-
+-->
 
 
 ## Week 2 - Coordinate Systems
@@ -60,11 +60,16 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 
 ### Tutorial Quiz 
 
- 1.
- 2. 
- 3. 
- 4. 
- 5. 
+ 1. What is the relationship between 2D cartesian \$(x,y) \$ and polar coordinates \$(r,\theta) \$ ?
+ 2. What shape is given by \$ r= 3 \$ in cylindrical polar coordinates?
+ 3. For constants \$ a,b,c\$ describe the shape of \$ r=a, \theta=b, \phi = c\$ in spherical coordinates.
+ 4. True or False
+    * The equations \$ \phi = 2\$ and \$ x^2 + y^2 + z^2 = 2\$ represent the same surface.
+    * The coordinates of a point in cylindrical coordinates are unique
+    * The coordinates of a point in cartesian coordinates are unique. 
+    * The equation of a cardoid is \$ r = 1-cos(\theta) \$.
+    * The equation \$ r = \theta/2\pi \$ in polar coordinates is the Fibonnaci spiral. 
+ 5. What shape is given by \$\phi = \frac{\pi}{4} \$ in spherical coordinates?
 
 <!--
 ## Week 3 - Partial Differentials
