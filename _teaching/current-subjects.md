@@ -122,7 +122,7 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
     * \$\frac{\partial}{\partial x} f(g(x,y))\$
     * \$ \frac{d}{d t} f(x(t),y(t)) \$ 
     * \$ \frac{\partial}{\partial y} f(x,y)\cdot g(x,y)\$
-    * \frac{\partial}{\partial x} \left(\frac{f(x,y)}{g(x,y)}\right)\$
+    * \$ \frac{\partial}{\partial x} \left(\frac{f(x,y)}{g(x,y)}\right)\$
 2. Name and write  the \$\nabla\$ operator in terms of \$\partial_x, \; \partial_y\$. 
 3. What is: 
     * Laplace's equation for \$f(x,y)\$ 
@@ -136,6 +136,7 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
     * What is the Jacobian of cylindrical polar (from cartesian)?
     * What is the Jacobian of cartesian (from cartesian)?
     * What is the Jacobian of spherical polar (from cartesian)?
+
 
 <!--
 ## Week 5 - Double Integrals 2: Here's the remix 
