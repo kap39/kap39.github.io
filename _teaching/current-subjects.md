@@ -54,10 +54,17 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 
 ## Week 2 - Coordinate Systems
 
- *  Cartesian Coordinates
- *  Cylindrical Polar Coordinates
- *  Spherical Polar Coordinates
+ *  Cartesian Coordinates \$ (x,y,z)\$ - uniquely define a singluar point. Independent coordinates. 
+ *  Cylindrical Polar Coordinates \$(r,\theta, z)\$ - are unique up to \$\theta \in [0,2\pi]\$. \$z\$ behaves as the cartesian plane, and \$r\$ is defined radially outwards from the origin, \$ \theta\$ is anticlockise round from the positive \$x\$ axis. 
+    * \$x=r\cos(\theta)\$
+    * \$y = r\sin(\theta)\$
+    * \$ z=z\$
+ *  Spherical Polar Coordinates - \$(r,\theta,\varphi)\$ - first two the same as cylindrical polar coordinates, now \$ \varphi\$ is the polar angle defined between 0 and \$\pi\$. 
+    * \$ x=rcos(\theta)\sin(\varphi)\$
+    * \$ y = rsin(\theta)\sin(\varphi)\$
+    * \$ z = r\cos(\varphi)\$
 
+<!-- 
 ### Tutorial Quiz 
 
  1. What is the relationship between 2D cartesian \$(x,y) \$ and polar coordinates \$(r,\theta) \$ ?
@@ -70,8 +77,9 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
     * The equation of a cardoid is \$ r = 1-cos(\theta) \$.
     * The equation \$ r = \theta/2\pi \$ in polar coordinates is the Fibonnaci spiral. 
  5. What shape is given by \$\phi = \frac{\pi}{4} \$ in spherical coordinates?
+-->
 
-<!--
+
 ## Week 3 - Partial Differentials
 
 * Partial Differentiation
@@ -79,11 +87,56 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 * Critical Points of 2D Functions
 * Partial Differential Equations
 
+
+<!--
+### Tutorial Quiz
+
+1. For a function \$f(x)\$ what does it mean when \$ f'(x)\$ and \$f''(x)\$ both equal zero? 
+2. List as many notations as you can for partial derivative with respect to: 
+    * x
+    * y
+    * xx
+    * xy
+    * yy
+3. What is the relationship between \$ \partial_{xy}\$ and \$ \partial_{yx}\$. 
+4. Name and define the types of critical points. 
+    * What does it mean for a point to be a critical point?
+5. State the second derivative test. 
+    * What assumptions can be made based on the different possible results of the second derivative test? 
+    * When is the second derivative test inconclusive? 
+6. What is the Hessian of a function? 
+    * How does it relate to the second derivative test?
+7. Write cartesian coordinates in terms of cylindrical polar coordinates
+8. Write spherical polar coordinates in terms of cartesian coordinates. 
+
+-->
 ## Week 4 - Cartesian Double Integrals
 
 * Order of Integration
 * Averaging using integration
 
+
+### Tutorial Quiz
+
+1. For the functions given, state the type of rule that needs to be used and how to solve the following derivatives:
+    * \$\frac{\partial}{\partial x} f(g(x,y))\$
+    * \$ \frac{d}{d t} f(x(t),y(t)) \$ 
+    * \$ \frac{\partial}{\partial y} f(x,y)\cdot g(x,y)\$
+    * \frac{\partial}{\partial x} \left(\frac{f(x,y)}{g(x,y)}\right)\$
+2. Name and write  the \$\nabla\$ operator in terms of \$\partial_x, \; \partial_y\$. 
+3. What is: 
+    * Laplace's equation for \$f(x,y)\$ 
+    * The 1D wave equation for \$ f(x,t)\$ 
+    * The 2D wave equation for \$ f(x,y,t)\$ 
+4. What is the graphical interpretation of a double integral? 
+5. How do we evaluate double integrals? 
+6. State Fubini's theorem for \$ \iint f(x,y)dA \$ where \$ a \le x \le b\$ and \$ c\le y \le d\$.
+7. What is the Jacobian of a coordinate system? 
+    * How many different notations can you think of? 
+    * What is the Jacobian of cylindrical polar (from cartesian)?
+    * What is the Jacobian of cartesian (from cartesian)?
+    * What is the Jacobian of spherical polar (from cartesian)?
+<!--
 ## Week 5 - Double Integrals 2: Here's the remix 
 
 * Jacobian 
