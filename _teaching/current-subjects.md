@@ -136,6 +136,7 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
     * What is the Jacobian of cylindrical polar (from cartesian)?
     * What is the Jacobian of cartesian (from cartesian)?
     * What is the Jacobian of spherical polar (from cartesian)?
+
 <!--
 ## Week 5 - Double Integrals 2: Here's the remix 
 
@@ -155,5 +156,5 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 ## Week 9
 ## Week 10
 ## Week 11
- --->
+ -->
 
