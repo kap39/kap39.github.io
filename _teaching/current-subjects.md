@@ -115,7 +115,7 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 * Order of Integration
 * Averaging using integration
 
-
+<!--
 ### Tutorial Quiz
 
 1. For the functions given, state the type of rule that needs to be used and how to solve the following derivatives:
@@ -136,15 +136,47 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
     * What is the Jacobian of cylindrical polar (from cartesian)?
     * What is the Jacobian of cartesian (from cartesian)?
     * What is the Jacobian of spherical polar (from cartesian)?
+-->
 
 
-<!--
 ## Week 5 - Double Integrals 2: Here's the remix 
 
 * Jacobian 
 * Change of coordinates
 * Why when and how
 
+### Tutorial Quiz
+
+1. What is the Jacobian of a transform \$ (x,y) \to (u,v) \$?
+    * What is the Jacobian of cartesian to cylindrical polar coordinates?
+    * What is the Jacobian of cartesian to Spherical polar coordiantes?
+2. For a region \$ R\$ in the positive quadrant bound by: \$ x=y, xy=1,x=\sqrt{2}\$:
+    * Sketch \$R\$ in the \$ xy\$ plane. 
+    * Introduce \$ u = x/y\$, \$ v = xy\$. 
+        * Rewrite the three bounding equations in \$u\$ and \$v\$. 
+        * Sketch S, the transformed region R in the \$uv\$ plane. 
+        * Work out the Jacobian of this transformation
+3.  For a region \$ R\$ bound by: \$ x-2y=0, x-2y=4,3x-y=1, 3x-y=8\$:
+    * Sketch \$R\$ in the \$ xy\$ plane. 
+    * Introduce \$ u = x-2y\$, \$ v = 3x-y\$. 
+        * Rewrite the three bounding equations in \$u\$ and \$v\$. 
+        * Sketch S, the transformed region R in the \$uv\$ plane. 
+        * Work out the Jacobian of this transformation
+4.  For a region \$ R\$ in the positive quadrant bound by: \$xy=1, xy=4, y=1, y=2\$:
+    * Sketch \$R\$ in the \$ xy\$ plane. 
+    * Introduce \$ x=u/v\$, \$ y=v\$. 
+        * Rewrite the three bounding equations in \$u\$ and \$v\$. 
+        * Sketch S, the transformed region R in the \$uv\$ plane. 
+        * Work out the Jacobian of this transformation
+5. Find the Jacobian of the transformation \$x=u\$, \$ y=2uv\$. 
+    * Sketch S, the region: \$ 1 \le u \le 2\$, \$ 2 \le 2uv \le 4\$ in the uv plane 
+6. HARD: Consider the region R  bound by \$ x^2 \le y \le 1+x^2 \$, \$ \sqrt{1-x^2} \le y \le \sqrt{4-x^2}\$. 
+    * Sketch R in the \$ xy \$ plane
+    * Let \$ u = x^2+ y^2 \$, \$ v = y-x^2 \$. Sketch S in the \$ uv \$ plane
+    * Determine the Jacobian of the change
+
+
+<!--
 ## Week 6 - Polar coordinates
 
 * More double integrals I guess
