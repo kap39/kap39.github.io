@@ -260,9 +260,9 @@ This week break up into 5 teams and each team work on a question, explain the so
     * What is the multivariate chain rule for \$ \frac{df(x(t),y(t))}{dt} \$
     * What is the multivariate chain rule for \$ \frac{\partial f(x(t,s),y(t,s)}{\partial s} \$. 
     * What is the integral over an area in a general coordinate system? e.g in cartesian \$ \iint 1 dxdy\$. 
-    <!--* what is the equation of the Jacobian of a transform \$ (x,y) \to (u,v)\$
+    * what is the equation of the Jacobian of a transform \$ (x,y) \to (u,v)\$
     * What is the equation of the Jacobian of a transform \$ (u,v) \to (x,y) \$
-    * What is the Jacobian of cartesian to polar coordinates? Show workings.-->
+    * What is the Jacobian of cartesian to polar coordinates? Show workings.
 
 4. Cartesian to Polar Limits: Rewrite the following integral limits into 2d polar coordinates.
     *  \$\int_0^\infty \int_0^\infty\ldots dydx = \iint\ldots rdrd\theta \$ <!--0,a and 0 pi/2-->
