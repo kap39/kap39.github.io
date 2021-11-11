@@ -250,8 +250,8 @@ This week break up into 5 teams and each team work on a question, explain the so
 
 2. Transformations when region given: For the following give the transform that maps one region to the other, and draw both regions. 
     * \$R\$ is the triangle with vertices (3,2), (-1,2), (-3,-2), and \$S\$ is the triangle with vertices (1,0), (0,1), (-1,0). <!-- -->
-    * \$R\$ is the parallelogram with vertices (0,0), (3,1), (4,2), (3,4) and (-1,2). \$S\$ is the region defined by \$ 0 \le u \le 10\$, \$ 0 \le v \le 5 \$. 
-    * \$ R\$ is the region bound by the equations \$ y = \sqrt{1-x^2}\$ and \$x=\sqrt{4-x^2}\$. \$S\$ is the region defined by \$1\le y \le 2\$, \$ 0 \le v \le \pi\$. 
+    * \$R\$ is the parallelogram with vertices (0,0),  (4,2), (3,4) and (-1,2). \$S\$ is the region defined by \$ 0 \le u \le 10\$, \$ 0 \le v \le 5 \$. 
+    * \$ R\$ is the region bound by the equations \$ y = \sqrt{1-x^2}\$ and \$y=\sqrt{4-x^2}\$. \$S\$ is the region defined by \$1\le y \le 2\$, \$ 0 \le v \le \pi\$. 
     * \$ R \$ is the unit circle centered at the origin, \$S\$ is a unit square with vertices (0,0), (0,1) (1,0), (1,1). 
 
 3.  Revising Chain rule and Polar Coordinates: 
@@ -286,7 +286,7 @@ This week break up into 5 teams and each team work on a question, explain the so
 * Seriously? 
 
 ## Week 8 - Differential Equations
-## Week 9
+## Week 9 - More differential equations
 ## Week 10
 ## Week 11
  -->
