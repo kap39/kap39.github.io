@@ -272,12 +272,12 @@ This week break up into 5 teams and each team work on a question, explain the so
     * \$ \int_0^1 \int_y^{y^2} \ldots dxdy = \iint \ldots rdrd \theta \$ <!--pi/4 pi/2 and 0 cos(\theta) cosec(\theta) -->
     * \$ \int_0^\sqrt{2} \int_y^{\sqrt{4-y^2}} \ldots dxdy = \iint \ldots rdrd\theta \$. <!-- 0 2, 0, pi/2-->
 
-5. Polar integration: Evaluate the area enclosed by the circle \$r=3cos(\theta)\$ and $r=1-cos(\theta)\$. 
+5. Polar integration: Evaluate the area enclosed by the circle \$r=3cos(\theta)\$ and $r=1+cos(\theta)\$. 
     * Sketch the regions
     * Calculate the points of intersection
     * What symmetries or separations of the region can you use to simplify the integral
     * Write down the limits of integration \$ \iint rdrd\theta + \iint rdrd\theta\$. 
-    * Evaluate the integral. 
+    * Evaluate the integral. <!-- 5/4 pi -->
 
 
 <!--
