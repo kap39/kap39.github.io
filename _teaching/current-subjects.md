@@ -242,7 +242,7 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 * Evaluating integrals using order of integration or mixing integrals
 
 ### Tutorial Quiz
-This week break up into 5 teams and each team work on a question, explain the solution to the rest of the class. The questions are broken down into smaller parts as a guide. The solutions can be found ![here](https://kap39.github.io/files/Week6.pdf "Solutions")
+This week break up into 5 teams and each team work on a question, explain the solution to the rest of the class. The questions are broken down into smaller parts as a guide. ![SOLUTIONS](https://kap39.github.io/files/Week6.pdf "Solutions")
 
 1. Regions when transformation given: For the following Sketch the original region and the new region mapped by the transform, state the new bounding equations. 
     * For a region \$R\$ bound by the ellipse \$ x^2 + \frac{y^2}{36} = 1\$, and transform \$x=u/2\$ and \$ y= 3v\$ <!-- disc of radius 2 at the origin -->
