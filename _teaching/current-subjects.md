@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Current Subjects"
 collection: teaching
 type: "Undergraduate courses"
@@ -241,7 +242,7 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 * Evaluating integrals using order of integration or mixing integrals
 
 ### Tutorial Quiz
-This week break up into 5 teams and each team work on a question, explain the solution to the rest of the class. The questions are broken down into smaller parts as a guide.
+This week break up into 5 teams and each team work on a question, explain the solution to the rest of the class. The questions are broken down into smaller parts as a guide. The solutions can be found ![here](https://kap39.github.io/files/Week6.pdf "Solutions")
 
 1. Regions when transformation given: For the following Sketch the original region and the new region mapped by the transform, state the new bounding equations. 
     * For a region \$R\$ bound by the ellipse \$ x^2 + \frac{y^2}{36} = 1\$, and transform \$x=u/2\$ and \$ y= 3v\$ <!-- disc of radius 2 at the origin -->
@@ -251,7 +252,7 @@ This week break up into 5 teams and each team work on a question, explain the so
 2. Transformations when region given: For the following give the transform that maps one region to the other, and draw both regions. 
     * \$R\$ is the triangle with vertices (3,2), (-1,2), (-3,-2), and \$S\$ is the triangle with vertices (1,0), (0,1), (-1,0). <!-- -->
     * \$R\$ is the parallelogram with vertices (0,0),  (4,2), (3,4) and (-1,2). \$S\$ is the region defined by \$ 0 \le u \le 10\$, \$ 0 \le v \le 5 \$. 
-    * \$ R\$ is the region bound by the equations \$ y = \sqrt{1-x^2}\$ and \$y=\sqrt{4-x^2}\$. \$S\$ is the region defined by \$1\le y \le 2\$, \$ 0 \le v \le \pi\$. 
+    * \$ R\$ is the region bound by the equations \$ y = \sqrt{1-x^2}\$ and \$y=\sqrt{4-x^2}\$. \$S\$ is the region defined by \$1\le u \le 2\$, \$ 0 \le v \le \pi\$. 
     * \$ R \$ is the unit circle centered at the origin, \$S\$ is a unit square with vertices (0,0), (0,1) (1,0), (1,1). 
 
 3.  Revising Chain rule and Polar Coordinates: 
