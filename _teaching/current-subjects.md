@@ -46,16 +46,16 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
     <ul style="color:#557786;">
         <li> $\partial_x \; \frac{\partial f}{\partial x}\; f^\prime\; Df\; \dot{f} $  </li>
         <li>$\int f(x) dx $</li>
-        <li> $\int_\^b f(x) dx $</li>
+        <li> $\int_a^b f(x) dx $</li>
     </ul>
 2. State the Fundamental Theorem of Calculus. 
     <ul style="color:#557786;">
-        <li> For a continuous function $f(x)$ over the interval $[a,b]\subset \mathcal{R}$, $f$ has antiderivative $g(x)$ $\forall x\in [a,b]$ such that $$g(x) = \int_a^x f(\chi) d\chi $ </li>
+        <li> For a continuous function $f(x)$ over the interval $[a,b]\subset \mathcal{R}$, $f$ has antiderivative $g(x)$ $\forall x\in [a,b]$ such that $g(x) = \int_a^x f(\chi) d\chi $ </li>
         <li> Furthermore, for any antiderivative $h(x)$, and for $a \le \alpha \le \beta \le b\$ we have $\int_\alpha^\beta f(u) du = h(\beta) - h(\alpha) $</li>
     </ul>
 3. What is the relation between \$ \int_a^b f(x) dx \$ and \$ \int_b^a f(x) dx\$. 
     <ul style="color:#557786;">
-        <li> \int_a^b f(x) dx = -\int_b^a f(x) dx </li>
+        <li> $ \int_a^b f(x) dx = -\int_b^a f(x) dx $ </li>
     </ul>
 4. For a continuous function \$ f(x)\$ over an interval \$[a,b]\$
     * What is the equation of Arc Length \$S\$?
@@ -90,7 +90,7 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 
  1. What is the relationship between 2D cartesian \$(x,y) \$ and polar coordinates \$(r,\theta) \$ ?
      <ul style="color:#557786;">
-        <li>  $x = r\cos(\theta)$, $y=r\sin(\theta)$, or backwards $r = x^2+ y^2$ an d$\theta = \arctan(y/x)\$ </li>
+        <li>  $x = r\cos(\theta)$, $y=r\sin(\theta)$, or backwards $r = x^2+ y^2$ and $\theta = \arctan(y/x) $ </li>
     </ul>
  2. What shape is given by \$ r= 3 \$ in cylindrical polar coordinates?
      <ul style="color:#557786;">
@@ -111,7 +111,7 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 
  5. What shape is given by \$\phi = \frac{\pi}{4} \$ in spherical coordinates?
      <ul style="color:#557786;">
-        <li>a cone with the tip at the origin projecting outwards in the positive $z$ direction with the slope at an angle $\phi=\pi/2$ to the z axis. </li>
+        <li> a cone with the tip at the origin projecting outwards in the positive $z$ direction with the slope at an angle $\phi=\pi/2$ to the z axis. </li>
     </ul>
 
 
@@ -123,34 +123,100 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 * Partial Differential Equations
 
 
-<!--
+
 ### Tutorial Quiz
 
 1. For a function \$f(x)\$ what does it mean when \$ f'(x)\$ and \$f''(x)\$ both equal zero? 
+    <ul style="color:#557786;">
+        <li> $f(x)$ has a critical point at $x$ which is a maximum</li>
+    </ul>
 2. List as many notations as you can for partial derivative with respect to: 
     * x
     * y
     * xx
     * xy
     * yy
-3. What is the relationship between \$ \partial_{xy}\$ and \$ \partial_{yx}\$. 
+    <ul style="color:#557786;">
+    <li> $\frac{\partial}{\partial_x},\; \partial_x \; \cdot_x, $</li>
+    <li> $\frac{\partial^2}{\partial_x^2},\; \frac{\partial}{\partial x}\left(\frac{\partial}{\partial_x}\right), \; \cdot_x^2, \; \cdot_{xx} $</li>
+    </ul>
+3. What is the relationship between \$ \partial_{xy}\$ and \$ \partial_{yx}\$.
+    <ul style="color:#557786;">
+        <li> For well behaved functions $ \partial_{xy} = \partial_{yx} $ </li>
+    </ul>
 4. Name and define the types of critical points. 
     * What does it mean for a point to be a critical point?
+    <ul style="color:#557786;">
+        <li> a critical point is a point $(x_0,y_0)$ where the gradient of the function is zero, i.e the partial derivatives of $f$ at $(x_0,y_0)$ are both equal to zero. </li>
+        <li>
+        <table>
+            <tr>
+                <th> Critical Point </th>
+                <th> Type</th>
+                <th> Local Definition </th>
+                <th> Global Definition </th>
+            </tr>
+            <tr>
+                <th> Maximum </th>
+                <th> Extrema </th>
+                <th> $f(x_0,y_0) \ge f(x,y)$ within a disc $B$ centred at $(x_0,y_0)$ </th>
+                <th> $f(x_0,y_0) \ge f(x,y) \forall (x,y)$ </th>
+            </tr>
+            <tr>
+                <th>Minimum </th>
+                <th> Extrema</th>
+                <th> $f(x_0,y_0) \le f(x,y)$ within a disc $B$ centred at $(x_0,y_0)$ </th>
+                <th> $f(x_0,y_0) \le f(x,y) \forall (x,y)$ </th>
+            </tr>
+            <tr>
+                <th> Saddle Point </th>
+                <th> not extrema </th>
+                <th> - </th>
+                <th> - </th>
+            </tr>
+        </table>
+        </li>
+    </ul>
 5. State the second derivative test. 
     * What assumptions can be made based on the different possible results of the second derivative test? 
     * When is the second derivative test inconclusive? 
+    <ul style="color:#557786;">
+    <li> For a critical point $(x_0,y_0)$ of a function $f(x,y)$ with continuous second order derivatives, let the determinant be given by
+    $$D = f_{xx}f_{yy} - f_{xy}^2 $$
+    Then: 
+        <ul>
+            <li> If $D>0$ and $f_{xx} > 0$ then $(x_0,y_0)$ is a local minimum </li>
+            <li> If $D>0$ and $f_{xx} < 0$ then $(x_0,y_0)$ is a local maximum </li>
+            <li> If $D<0$ then $(x_0,y_0)$ is a saddle point </li>
+            <li> If $D=0$ the test is inconclusive </li>
+        </ul>
+    <li> The second partials test is inconclusive when the first and second order derivatives are both equal to zero, or the second derivative doesn't exist at the critical point. In this case we need higher derivatives (or other types of information about the function) to give indication of the behaviour of the critical point. </li>
+    </ul>
 6. What is the Hessian of a function? 
     * How does it relate to the second derivative test?
-7. Write cartesian coordinates in terms of cylindrical polar coordinates
-8. Write spherical polar coordinates in terms of cartesian coordinates. 
+    <ul style="color:#557786;">
+    <li> The Hessian
+    $$ H(x,y) = \begin{bmatrix} f_{xx} & f_{xy} \\ f_{yx} & f_{yy} \end{bmatrix} $$ is a matrix containing all second order partial derivatives of the function. The determinant in the second partials test is the determinant of this matrix. (Check for yourself). 
+    </li>
+    </ul>
+7. Write Cartesian coordinates in terms of cylindrical polar coordinates
+    <ul style="color:#557786;">
+    <li> $x = r\cos(\theta)$</li>
+    <li> $y = r\sin(\theta)$ </li>
+    <li> $z=z$ </li>
+    </ul>
+8. Write spherical polar coordinates in terms of Cartesian coordinates. 
+    <ul style="color:#557786;">
+    <li> $r= \sqrt{x^2+y^2+z^2} $</li>
+    <li> $ \theta = \tan^{-1}(y/x) $ </li>
+    <li> $ \phi=\cos^{-1}\left(\frac{z}{\sqrt{x^2+y^2+z^2}}\right) $ </li>
+    </ul>
 
--->
 ## Week 4 - Cartesian Double Integrals
 
 * Order of Integration
 * Averaging using integration
 
-<!--
 ### Tutorial Quiz
 
 1. For the functions given, state the type of rule that needs to be used and how to solve the following derivatives:
@@ -158,20 +224,48 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
     * \$ \frac{d}{d t} f(x(t),y(t)) \$ 
     * \$ \frac{\partial}{\partial y} f(x,y)\cdot g(x,y)\$
     * \$ \frac{\partial}{\partial x} \left(\frac{f(x,y)}{g(x,y)}\right)\$
+    <ul style="color:#557786;">
+        <li> Chain Rule </li>
+        <li> Multivariate Chain Rule </li>
+        <li> Product Rule </li>
+        <li> Quotient Rule </li>
+    </ul>
 2. Name and write  the \$\nabla\$ operator in terms of \$\partial_x, \; \partial_y\$. 
+    <ul style="color:#557786;">
+        <li> $\nabla = \partial_x + \partial_y $</li>
+    </ul>
 3. What is: 
     * Laplace's equation for \$f(x,y)\$ 
     * The 1D wave equation for \$ f(x,t)\$ 
     * The 2D wave equation for \$ f(x,y,t)\$ 
+    <ul style="color:#557786;">
+        <li> $\nabla^2 f = \partial_x^2 f + \partial_y^2 = 0 $</li>
+        <li> $ \partial_t f = c^2 \partial_x^2 f $ </li>
+        <li> $ \partial_t^2 f = c^2 \partial_x^2 f $ </li>
+    </ul>
 4. What is the graphical interpretation of a double integral? 
+    <ul style="color:#557786;">
+        <li> Volume under the surface </li>
+    </ul>
 5. How do we evaluate double integrals? 
+    <ul style="color:#557786;">
+        <li> evaluate inside integral first, then outside integral </li>
+    </ul>
 6. State Fubini's theorem for \$ \iint f(x,y)dA \$ where \$ a \le x \le b\$ and \$ c\le y \le d\$.
+    <ul style="color:#557786;">
+        <li> $\iint_R f(x,y) dA = \int_c^d \int_a^b f(x,y) dxdy = \int_a^b \int_c^d f(x,y) dydx$</li>
+    </ul>
 7. What is the Jacobian of a coordinate system? 
     * How many different notations can you think of? 
     * What is the Jacobian of cylindrical polar (from cartesian)?
     * What is the Jacobian of cartesian (from cartesian)?
     * What is the Jacobian of spherical polar (from cartesian)?
--->
+    <ul style="color:#557786;">
+        <li> The determinant of the Jacobian matrix is an indication of how much an area is deformed over a certain transformation - think similar to scale factors</li>
+        <li> Notation: $J_{u,v},\; \frac{\partial(x,y)}{\partial(u,v)},\; \det(J)$ </li>
+        <li> $J(r,\theta,z) = r $ </li>
+        <li> $ J(r,\theta,\rho) = r^2\sin(\rho) $ </li>
+    </ul>
 
 
 ## Week 5 - Double Integrals 2: Here's the remix 
@@ -237,20 +331,24 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 
 ## Week 6 - Polar coordinates
 
-* Changing integral limits from cartesian to polar coordinates
+* Changing integral limits from cartesian to polar coordinates. 
+    * Remember that \$(r,\theta)\$ means the point is a distance \$r\$ away from the origin, at an angle \$\theta\$ anticlockwise from the positive x axis. To describe the plane UNIQUELY by this system restrict \$r \ge 0\$ and \$ 0 \le \theta 2\pi\$.
+    * When integrating over polar coordinates you need to include the Jacobian, so \$ dxdy \to rdrd\theta\$. 
 * What shapes and surfaces are better described with polar coordinates?
+    * Circles are the obvious choice, but anything sinusoidal or curved may do better in polar coordinates. 
 * Evaluating integrals using order of integration or mixing integrals
+    * Remember when changing order of integration the limits will also need to be changed, and if one of your boundaries is a function of the other axis, this will have to be on the inside integral. 
 
 ### Tutorial Quiz
 This week break up into 5 teams and each team work on a question, explain the solution to the rest of the class. The questions are broken down into smaller parts as a guide. [SOLUTIONS](https://kap39.github.io/files/Week6.pdf "Solutions")
 
 1. Regions when transformation given: For the following Sketch the original region and the new region mapped by the transform, state the new bounding equations. 
-    * For a region \$R\$ bound by the ellipse \$ x^2 + \frac{y^2}{36} = 1\$, and transform \$x=u/2\$ and \$ y= 3v\$ <!-- disc of radius 2 at the origin -->
-    * For the region \$ R \$ bound by the lines \$ y=-x+4\$, \$ y=x+1 \$ and \$ y=x/3 - 4/3 \$, with transformation \$x=\frac{u+v}{2} \$, \$ y = \frac{u-v}{2}\$. <!-- triangle with coordinates (4,0) (3/2,5/2) (-7/2,-5/2) to right angled triangle (-6,-1), (4,-1), (4,4) -->
-    * For the trapezoidal region \$ R \$ with vertices given by \$(0,0)\$, \$(5,0)\$, \$(2.5,2.5)\$ and \$(2.5,-2.5)\$, using the transformation \$ x=2u+3v\$ and \$ y = 2u-3v\$. Solve the integral \$\iint x+y dA\$ using the transformation <!--125/4-->
+    * For a region \$R\$ bound by the ellipse \$ x^2 + \frac{y^2}{36} = 1\$, and transform \$x=u/2\$ and \$ y= 3v\$
+    * For the region \$ R \$ bound by the lines \$ y=-x+4\$, \$ y=x+1 \$ and \$ y=x/3 - 4/3 \$, with transformation \$x=\frac{u+v}{2} \$, \$ y = \frac{u-v}{2}\$.
+    * For the trapezoidal region \$ R \$ with vertices given by \$(0,0)\$, \$(5,0)\$, \$(2.5,2.5)\$ and \$(2.5,-2.5)\$, using the transformation \$ x=2u+3v\$ and \$ y = 2u-3v\$. Solve the integral \$\iint x+y dA\$ using the transformation
 
 2. Transformations when region given: For the following give the transform that maps one region to the other, and draw both regions. 
-    * \$R\$ is the triangle with vertices (3,2), (-1,2), (-3,-2), and \$S\$ is the triangle with vertices (1,0), (0,1), (-1,0). <!-- -->
+    * \$R\$ is the triangle with vertices (3,2), (-1,2), (-3,-2), and \$S\$ is the triangle with vertices (1,0), (0,1), (-1,0).
     * \$R\$ is the parallelogram with vertices (0,0),  (4,2), (3,4) and (-1,2). \$S\$ is the region defined by \$ 0 \le u \le 10\$, \$ 0 \le v \le 5 \$. 
     * \$ R\$ is the region bound by the equations \$ y = \sqrt{1-x^2}\$ and \$y=\sqrt{4-x^2}\$. \$S\$ is the region defined by \$1\le u \le 2\$, \$ 0 \le v \le \pi\$. 
     * \$ R \$ is the unit circle centered at the origin, \$S\$ is a unit square with vertices (0,0), (0,1) (1,0), (1,1). 
@@ -266,26 +364,55 @@ This week break up into 5 teams and each team work on a question, explain the so
     * What is the Jacobian of cartesian to polar coordinates? Show workings.
 
 4. Cartesian to Polar Limits: Rewrite the following integral limits into 2d polar coordinates.
-    *  \$\int_0^\infty \int_0^\infty\ldots dydx = \iint\ldots rdrd\theta \$ <!--0,a and 0 pi/2-->
-    *  \$ \int_{-\infty}^\infty \int_{-\infty}^\infty\ldots dxdy = \iint \ldots rdrd\theta \$ <!-- 0 \infty, 0 \pi/2-->
-    * \$ \int_0^1 \int_0^1 \ldots dxdy = \iint \ldots rdrd\theta \$  <!-- 0 sec\theta  0 \pi/2 -->
-    <!--* \$ \int_0^a \int_0^{\sqrt{a^2-x^2}}\ldots dydx = \iint \ldots rdr d\theta \$.-->
-    * \$ \int_0^1 \int_y^{y^2} \ldots dxdy = \iint \ldots rdrd \theta \$ <!--pi/4 pi/2 and 0 cos(\theta) cosec(\theta) -->
-    * \$ \int_0^\sqrt{2} \int_y^{\sqrt{4-y^2}} \ldots dxdy = \iint \ldots rdrd\theta \$. <!-- 0 2, 0, pi/2-->
+    *  \$\int_0^\infty \int_0^\infty\ldots dydx = \iint\ldots rdrd\theta \$
+    *  \$ \int_{-\infty}^\infty \int_{-\infty}^\infty\ldots dxdy = \iint \ldots rdrd\theta \$
+    * \$ \int_0^1 \int_0^1 \ldots dxdy = \iint \ldots rdrd\theta \$  
+    * \$ \int_0^1 \int_y^{y^2} \ldots dxdy = \iint \ldots rdrd \theta \$ 
+    * \$ \int_0^\sqrt{2} \int_y^{\sqrt{4-y^2}} \ldots dxdy = \iint \ldots rdrd\theta \$.
 
 5. Polar integration: Evaluate the area enclosed by the circle \$r=3cos(\theta)\$ and $r=1+cos(\theta)\$. 
     * Sketch the regions
     * Calculate the points of intersection
     * What symmetries or separations of the region can you use to simplify the integral
     * Write down the limits of integration \$ \iint rdrd\theta + \iint rdrd\theta\$. 
-    * Evaluate the integral. <!-- 5/4 pi -->
+    * Evaluate the integral. 
+
+
+
+## Week 7 - Triple Integrals
+
+* What does it mean?
+    * For single integrals - area under a curve
+    * Double integrals  - volume under a surface
+    * Triple integrals - something 4D? Not super obvious what it represents geometrically. BUT it can be an alternate way to show volume under a surface - when the integrand is 1
+* Triple integrals generally behave the same way as double  - integrate inside first, ensuring the limits of integration describe the region uniquely.
+* Jacobian still works the same, but now is a 3x3 matrix - remember how to calculate the determinant of a 3x3 matrix!
+
+
+
+
+### Tutorial Quiz
+1. Calculate the line element, area element and volume element of integration in polar, cylindrical polar, and spherical polar coordinates, respectively. i.e what is?
+    * dL in terms of r
+    * dA in terms of \$(r,\theta)\$
+    * dV in terms of \$(r,\theta,\phi)\$
+2. Change the order of integration from \$dxdydz\$ to \$dzdydx\$  of the following
+    * \$ \int_0^5 \int_0^2 \int_0^sqrt{4-y^2} dxdydz \$
+    * \$  \int_0^4 \int_0^{4-y} \int_0^{sqrt{z}} dxdydz\$ 
+3. Use double integrals in polar coordinates to find the volume of the oblate spheroid \$ \frac{x^2}{a} + \frac{y^2}{a} + \frac{z^2}{c} = 1\$ where \$0 < c < a\$
+4. Sketch the regions and express them as limits of a triple integral of volume:
+    * \$ 0 \le z \le y^2,\quad 0\le y \le 1,\quad 0 \le x \le \pi/4\$
+    * \$ x \ge 0, \quad y \ge 0, \quad 0 \le z \le 1-y-x\$
+    * \$ x^2 + y^2 =1, \quad z=0,\quad z=y\$
+5. Evaluate \$ \iiint_R 3-4x dV \$ where \$R\$ is the region below \$ z=1-xy\$ and above the region in the xy plane defined by \$ 0 \le x \le 1, 0 \le y \le 1\$.
+    * Sketch the region
+    * Determine limits and order of integration
+    * Evaluate integral
+
+
 
 
 <!--
-## Week 7 - Triple Integrals
-
-* Seriously? 
-
 ## Week 8 - Differential Equations
 ## Week 9 - More differential equations
 ## Week 10
