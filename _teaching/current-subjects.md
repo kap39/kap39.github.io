@@ -398,7 +398,7 @@ This week break up into 5 teams and each team work on a question, explain the so
     * dV in terms of \$(r,\theta,\phi)\$
 2. Change the order of integration from \$dxdydz\$ to \$dzdydx\$  of the following
     * \$ \int_0^5 \int_0^2 \int_0^\sqrt{4-y^2} dxdydz \$
-    * \$  \int_0^4 \int_0^{4-y} \int_0^{\sqrt{z}} dxdydz\$ 
+    * \$  \int_0^4 \int_0^{4-y} \int_0^{\sqrt{z}} dxdzdy\$ 
 3. Use double integrals in polar coordinates to find the volume of the oblate spheroid \$ \frac{x^2}{a} + \frac{y^2}{a} + \frac{z^2}{c} = 1\$ where \$0 < c < a\$
 4. Sketch the regions and express them as limits of a triple integral of volume:
     * \$ 0 \le z \le y^2,\quad 0\le y \le 1,\quad 0 \le x \le \pi/4\$
