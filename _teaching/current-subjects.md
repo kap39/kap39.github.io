@@ -380,6 +380,7 @@ This week break up into 5 teams and each team work on a question, explain the so
 
 
 ## Week 7 - Triple Integrals
+Solutions can be found [here](https://kap39.github.io/files/week7.pdf "Solutions")
 
 * What does it mean?
     * For single integrals - area under a curve
@@ -412,8 +413,11 @@ This week break up into 5 teams and each team work on a question, explain the so
 
 
 
-<!--
+
 ## Week 8 - Differential Equations
+
+This week we shift track and start looking at differential equations. 
+<!--
 ## Week 9 - More differential equations
 ## Week 10
 ## Week 11
