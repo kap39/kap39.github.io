@@ -23,35 +23,35 @@ I have been working as a STEM Ambassador since 2017, volunteering at different o
 <div>
 <div id="twitch-embed" style="float: right"></div>
 
-    <!-- Load the Twitch embed script -->
-    <script src="https://embed.twitch.tv/embed/v1.js" ></script>
+<!-- Load the Twitch embed script -->
+<script src="https://embed.twitch.tv/embed/v1.js" ></script>
 
-    <!-- Create a Twitch.Embed object that will render within the "twitch-embed" element. -->
-    <script type="text/javascript">
-        var embed = new Twitch.Embed("twitch-embed", {
-        width: 720,
-        height: 405,
-        channel: "KatDoesMaths",
-        layout: "video",
-        autoplay: true,
-        // Only needed if this page is going to be embedded on other websites
-        theme: "dark",
-        });
+<!-- Create a Twitch.Embed object that will render within the "twitch-embed" element. -->
+<script type="text/javascript">
+    var embed = new Twitch.Embed("twitch-embed", {
+    width: 720,
+    height: 405,
+    channel: "KatDoesMaths",
+    layout: "video",
+    autoplay: true,
+    // Only needed if this page is going to be embedded on other websites
+    parent: ["katdoesmaths.me","kap39.github.io"]
+    });
 
-        embed.addEventListener(Twitch.Embed.VIDEO_READY, () => {
-        var player = embed.getPlayer();
-        player.play();
-        });
-    </script>
+    embed.addEventListener(Twitch.Embed.VIDEO_READY, () => {
+    var player = embed.getPlayer();
+    player.play();
+    });
+</script>
 
-    In May 2021, I started streaming on Twitch, and as such <a href="https://twitch.tv/KatDoesMaths">my twitch channel, KatDoesMaths</a> was born. Twitch is a platform that allows people to livestream to a public audience with an interactive chat function. Typically the platform is used for streaming games, but more and more people are finding ingeneous new ways to utilise the platform. As such there is an ever growing community of Science Communicators on the platform. Personally I use the platform to showcase my life as a PhD student, practise my outreach talks and get people passionate about mathematics. It is content that is unedited, authentic and allows a question and answer style interaction between myself and the audience. 
+In May 2021, I started streaming on Twitch, and as such <a href="https://twitch.tv/KatDoesMaths">my twitch channel, KatDoesMaths</a> was born. Twitch is a platform that allows people to livestream to a public audience with an interactive chat function. Typically the platform is used for streaming games, but more and more people are finding ingeneous new ways to utilise the platform. As such there is an ever growing community of Science Communicators on the platform. Personally I use the platform to showcase my life as a PhD student, practise my outreach talks and get people passionate about mathematics. It is content that is unedited, authentic and allows a question and answer style interaction between myself and the audience. 
 
-    I currently aim to stream at least three times a week, but would love to be able to increase that number. At the minute I have three main types of streams: 
-    <ul>
-        <li> Pomodoro Co-working Streams - these are some of my favourite (not just because they're the most productive). During these streams I will usually share what I'm working on in the PhD at the minute, allowing people to ask questions and see what the day-to-day life of a PhD student actually looks like. </li>
-        <li> Office Hours - These streams I've been using to work on science communication by mixing between going through exam papers, and having outreach talks. Currently wee've been looking at the summer 2019 A Level WJEC syllabus, and have completed Unit 1, and Unit 2 past papers on stream. </li>
-        <li> Puzzle Games - Okay so these ones are definitely more similar to the typical content on twitch, but I can't say no to the occasional video game so why not make it educational, everybody loves a good puzzle!</li>
-    </ul>
+I currently aim to stream at least three times a week, but would love to be able to increase that number. At the minute I have three main types of streams: 
+<ul>
+    <li> Pomodoro Co-working Streams - these are some of my favourite (not just because they're the most productive). During these streams I will usually share what I'm working on in the PhD at the minute, allowing people to ask questions and see what the day-to-day life of a PhD student actually looks like. </li>
+    <li> Office Hours - These streams I've been using to work on science communication by mixing between going through exam papers, and having outreach talks. Currently wee've been looking at the summer 2019 A Level WJEC syllabus, and have completed Unit 1, and Unit 2 past papers on stream. </li>
+    <li> Puzzle Games - Okay so these ones are definitely more similar to the typical content on twitch, but I can't say no to the occasional video game so why not make it educational, everybody loves a good puzzle!</li>
+</ul>
 
 </div>
 
