@@ -416,10 +416,46 @@ Solutions can be found [here](https://kap39.github.io/files/week7.pdf "Solutions
 
 ## Week 8 - Differential Equations
 
-This week we shift track and start looking at differential equations. 
-<!--
-## Week 9 - More differential equations
-## Week 10
-## Week 11
+This week we shift track and start looking at differential equations. We start with linear and separable differential equations. 
+*  Separable Equations
+    * These ODE's can be written in the form \$\frac{dy}{dx} = f(x)g(y)\$
+    * As long as \$g(y) \ne 0\$ we can write \$\int \frac{1}{g(y)}dy = \int f(x)dx\$ and solve.
+* Linear ODEs
+    * Can be written in the form \frac{dy}{dx} + a(x) y = b(x) \$ 
+    * Solve using Integrating Factor Method
+    * \$IF = e^{\int a(x) dx}\$
+    * the general solution then takes the form \$y(x) = \frac{1}{IF}\int IF b(x) dx\$. 
+
+## Week 9 - More first order differential equations
+
+Now looking at some more general types of first order ODE's
+
+* Bernoulli Equations
+* Homogeneous Equations
+* Exact Equations
+
+## Week 10 - Second order differential equations
+
+Second order differential equations now require different methods to solve. In general the ones we consider take the form \$ a\frac{d^2y}{dx^2} + b\frac{dy}{dx} + cy = d(x)\$, with \$a\$ nonzero (else it would be first order - think about it). We call \$d(x)\$ the forcing term, so if \$d(x)=0\$ the equation is called "homogeneous", of "free". 
+* Homogeneous/Free:
+    * Have \$d(x) = 0\$
+    * Solve using auxillary equation (take order of differential and replace with powers of \$\lambda\$) \$a\frac{d^2y}{dx^2} + b\frac{dy}{dx} + cy \to a\lambda^2 + b\lambda + c = 0\$
+        * Two real, distinct roots \$\lambda_1, \lambda_2\$: \$ y = Ae^{\lambda_1 x} + Be^{\lambda_2 x}\$.
+        * Real, repeated root \$\lambda\$ : \$y = Ae^{\lambda x} + Bxe^{\lambda x}\$
+        * Complex Conjugate roots \$\lambda = \alpha \pm \beta i\$: \$ y = e^{\alpha x}(A\cos(\beta x) + B\sin(\beta x))\$.
+* Inhomogeneous/Forced:
+    * \$d(x) \ne 0\$
+    * General Solution: Sum over the complementary function and particular integral
+        * Find general solution to corresponding free ODE, this is called the complementary function (see above)
+        * Find particular integral that satisfies forced ODE - particular solution will be of the same form as \$d(x)\$ and will need substitution into equation to find coefficients. e.g.
+            * \$a e^{bx}\$
+            * \$ ax^2 + bx + c\$ 
+            * \$a\cos(bx) + c\sin(dx)\$
+
+
+
+## Week 11 - Mechanics
+
+
  -->
 
