@@ -35,7 +35,7 @@ I have been working as a STEM Ambassador since 2017, volunteering at different o
     layout: "video",
     autoplay: true,
     // Only needed if this page is going to be embedded on other websites
-    parent: ["katdoesmaths.me","kap39.github.io"]
+    parent: ["katdoesmaths.me","kap39.github.io", "katdoesmaths.me/Outreach", "kap39.github.io/Outreach"]
     });
 
     embed.addEventListener(Twitch.Embed.VIDEO_READY, () => {
