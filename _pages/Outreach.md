@@ -12,7 +12,7 @@ excerpt: "When I'm not working on my PhD you can also find me..."
 
 ---
 
-For enquireies related to any of my outreach work you can contact me at katdoesmaths@gmail.com
+For enquireies related to any of my outreach work you can contact me at katdoesenquiries@gmail.com
 
 
 ## Traditional Outreach 
