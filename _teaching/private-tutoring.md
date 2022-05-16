@@ -19,5 +19,4 @@ You can view my profile on tutorfair [here](https://www.tutorfair.com/tutor/name
 Resources
 =====
 
-coming soon. 
-
+This has been moved to a separate page [here](https://kap39.github.io/teaching/resources)
