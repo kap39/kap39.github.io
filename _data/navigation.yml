@@ -9,11 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/   
     
-  - title: "Outreach"
-    url: /Outreach/
+  - title: "Maths Communication"
+    url: /MathsComm/
   
-  - title: "Blog"
-    url: /Blog/
+  #- title: "Blog"
+  #  url: /Blog/
   
   - title: "SAMBa Pages"
     url: /SAMBa/

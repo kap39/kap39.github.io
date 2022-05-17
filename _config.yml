@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Katie A. Phillips"
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   bio              : "Kat</br>Mathematical PhD Student at the University of Bath</br>She/Her "
   location         : "Bath, UK"
   employer         :
@@ -115,7 +115,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "KatDoesMaths"
+  youtube          : "https://www.youtube.com/channel/UCgawPJyerWDQlY3bfXec_Bw"
   wikipedia        :
 
 

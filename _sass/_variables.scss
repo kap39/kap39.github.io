@@ -50,12 +50,26 @@ $type-size-8                : 0.625em;  // ~10px
 /* Custom Colours */
 
 $Cyber-Grape                : #564787;
-$Glossy-Grape               : #9989B0;
+$Glossy-Grapes               : #9989B0;
 $Languid-Lavender           : #DBCBD8;
 $Azure-Web-Colour           : #F2FDFF;
 $Powder-Blue                : #9AD4D6;
 $Teal-Blue                  : #557786;
 $Oxford-Blue                : #101935;
+
+ /* New Colours */
+
+$Xiketic                    : #180010;
+$Red-Purple                 : #DD0070;
+$Dark-Purple                : #39213E;
+$English-Violet             : #543856;
+$Razzmic-Berry              : #724A72;
+$Glossy-Grape               : #B893AF;
+$Piggy-Pink                 : #fedce6;
+$Persian-Green              : #009988;
+$Illuminating-Emerald       : #219284;
+$Dark-Slate-Grey            : #1D494A;
+
 
 /*Presets */
 
@@ -72,11 +86,11 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray; 
 
-$primary-color              : $Cyber-Grape;     /* #7a8288;*/
+$primary-color              : $Razzmic-Berry;     /* #7a8288;*/
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : $Powder-Blue;    /* #52adc8;*/
+$info-color                 : $Illuminating-Emerald;    /* #52adc8;*/
 
 /* brands */
 $behance-color              : #1769FF;
