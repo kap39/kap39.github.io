@@ -18,8 +18,19 @@ If you want to get in touch about any speaking opportunities, or any questions a
 
 
 ## Outreach 
+![RI Masterclass '22](/images/Me/RITalk.jpeg){: width="45%" style="float:left; padding-right:10px" }
 
-I have been volunteering STEM Ambassador since 2017, volunteering at different outreach events and going into schools. I have worked alongside Ambassadors in Cardiff volunteering at Brain Games 2019 and delivering BBC Microbits workshops in schools in 2019.  In the last two years I've been collaborating with <a href="https://people.bath.ac.uk/cs640/Bathematicians.html">The Bathematicians</a> at events such as Maths Inspiration Bristol 2019, and am hoping to work with the Royal Institution to help deliver Maths Masterclasses in 2022. 
+<br />
+&nbsp;First trained as a <a href="https://www.stem.org.uk/stem-ambassadors">STEM Ambassador</a> in 2017, I have been taking part in outreach events since my undergraduate days, supporting festivals, leading workshops in schools, and more recently presenting to larger audiences. Events I've supported include <a href="https://museum.wales/cardiff/whatson/10492/Brain-Games/">Brain Games 2017</a>, <a href="https://mathsinspiration.com/">Maths Inspiration 2019</a>. In Spring 2022 I gave my first Royal Institution Maths Masterclass (shown on the right) alongside my fellow PhD students at the University of Bath. 
+<br />
+
+&nbsp;I have a series of talks available ranging from Number Theory to Fluid Dynamics, maths of music and more. Talks can be catered to a variety of audiences. Please get in contact using the email above if you would like to discuss a presenting role. 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 ## Streaming
@@ -52,7 +63,7 @@ I've been fortunate enough to meet some really wonderful people and collaborate 
 
 
 <figure class="half">
-<a href="https://girlswhostem.wordpress.com/2021/09/01/women-in-stem-wednesday-kat/"><img alt="Women in STEM" src="/images/WomeninSTEM.png"></a>
+<a href="https://girlswhostem.wordpress.com/2021/09/01/women-in-stem-wednesday-kat/"><img style="width: 75%; height: 75%; padding-left:100px" alt="Women in STEM" src="/images/WomeninSTEM.png" class="center" ></a>
 <a href="https://www.youtube.com/watch?v=2hgG4ieFuKw">
 <img alt="does anyone know how to get embed to work properly?" src="/images/SimonVideo.png"></a>
 </figure>
