@@ -38,7 +38,7 @@ If you want to get in touch about any speaking opportunities, or any questions a
 <div>  
 <div  style="float: right">
 <iframe
-    src="https://player.twitch.tv/?channel=KatDoesMathss&parent=katdoesmaths.me&autoplay=false"
+    src="https://player.twitch.tv/?channel=KatDoesMathss&parent=katdoesmaths.me&autoplay=true"
     height="405"
     width="720"
     allowfullscreen>
@@ -63,7 +63,7 @@ I've been fortunate enough to meet some really wonderful people and collaborate 
 
 
 <figure class="half">
-<a href="https://girlswhostem.wordpress.com/2021/09/01/women-in-stem-wednesday-kat/"><img style="width: 75%; height: 75%; padding-left:100px" alt="Women in STEM" src="/images/WomeninSTEM.png" class="center" ></a>
+<a href="https://girlswhostem.wordpress.com/2021/09/01/women-in-stem-wednesday-kat/"><img style="width: 75%; height: 75%; padding-left:100px" alt="Women in STEM" src="/images/WomenInSTEM.png" class="center" ></a>
 <a href="https://www.youtube.com/watch?v=2hgG4ieFuKw">
 <img alt="does anyone know how to get embed to work properly?" src="/images/SimonVideo.png"></a>
 </figure>
