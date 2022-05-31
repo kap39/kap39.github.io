@@ -38,7 +38,7 @@ If you want to get in touch about any speaking opportunities, or any questions a
 <div>  
 <div  style="float: right">
 <iframe
-    src="https://player.twitch.tv/?channel=KatDoesMathss&parent=katdoesmaths.me&autoplay=true"
+    src="https://player.twitch.tv/?channel=KatDoesMaths&parent=katdoesmaths.me&autoplay=true"
     height="405"
     width="720"
     allowfullscreen>
