@@ -19,9 +19,10 @@ Outside of academia I can be found enjoying various different aerial sports, cir
 #### Current
   * Vice President of the Uni of Bath SIAM and IMA student chapter. 
   * STEM Ambassador since _'17_. 
-  * One of the coordinators of the Maths Department Yoga sessions and self-appointed emperor of department weekly drinks. 
+  * Self-appointed Emperor (and ocoordinator) of department weekly drinks. 
 
 #### Previous
+  * Coordinator of Maths Department Online Yoga _'20/21_ 
   * SAMBa Summer conference co-organiser _Jul '21_
   * Student-led Symposia coordinator _Semester 1 '19/20_
   * One of the coordinators for SAMBA's Integrative Think Tank (ITT 11) _Jan '20_
