@@ -14,13 +14,13 @@ This section contains structural information about the running of my current mod
 
 # MA10230: Multivariable Calculus and Differential Equations
 
-This is the section for the semester 1 module, MA10230, for the academic year 21/22. The notes provided below are in no means a replacement for lecture notes and only meant to supplement the learning for students already enrolled in this course at the University of Bath. _The notes provided on this page are provided exclusively for educational purposes at the University of Bath to supplement the module MA10230, and are to be used for private study only. They are not for resale._<br/>
+This is the section for the semester 1 module, MA10230, for the academic year 22/23. The notes provided below are in no means a replacement for lecture notes and only meant to supplement the learning for students already enrolled in this course at the University of Bath. _The notes provided on this page are provided exclusively for educational purposes at the University of Bath to supplement the module MA10230, and are to be used for private study only. They are not for resale._<br/>
 
-UPDATE: I have included all previous weeks quizzes, including solutions after each question in <span style="color:#557786;"> teal </span>, no graphs provided for the moment until I can think of a low effort way to do it.
+
 
 ## Deadlines and Tutorial information
 
-Please submit your homework to the correct pigeonhole by no later than Tuesday at 5pm. Tutorials will be held weekly in person in the later half of the week. Please email me if you are going to miss a tutorial or can't make this homework deadline if you require an extension. 
+Please submit your homework to the correct pigeonhole by no later than <b>Tuesday at 5pm</b>. Tutorials will be held weekly in person in the later half of the week. Please email me if you are going to miss a tutorial or can't make this homework deadline if you require an extension. 
 <!-- B3: Thursday 16:15 6E 3.11
     A2: Friday 13:15 10W 2.01 -->
 
@@ -43,37 +43,47 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
     * What is the notation for derivative with respect to \$ x\$ (list as many as possible) ?
     * What is the notation for the indefinite integral?
     * What is the notation for definite integral over \$ [a,b]\$
-    <ul style="color:#557786;">
+
+    <!--<ul style="color:#557786;">
         <li> $\partial_x \; \frac{\partial f}{\partial x}\; f^\prime\; Df\; \dot{f} $  </li>
         <li>$\int f(x) dx $</li>
         <li> $\int_a^b f(x) dx $</li>
-    </ul>
+    </ul>-->
+
 2. State the Fundamental Theorem of Calculus. 
-    <ul style="color:#557786;">
+
+    <!--<ul style="color:#557786;">
         <li> For a continuous function $f(x)$ over the interval $[a,b]\subset \mathcal{R}$, $f$ has antiderivative $g(x)$ $\forall x\in [a,b]$ such that $g(x) = \int_a^x f(\chi) d\chi $ </li>
         <li> Furthermore, for any antiderivative $h(x)$, and for $a \le \alpha \le \beta \le b\$ we have $\int_\alpha^\beta f(u) du = h(\beta) - h(\alpha) $</li>
-    </ul>
+    </ul>-->
+
 3. What is the relation between \$ \int_a^b f(x) dx \$ and \$ \int_b^a f(x) dx\$. 
-    <ul style="color:#557786;">
+
+    <!--<ul style="color:#557786;">
         <li> $ \int_a^b f(x) dx = -\int_b^a f(x) dx $ </li>
-    </ul>
+    </ul>-->
+
 4. For a continuous function \$ f(x)\$ over an interval \$[a,b]\$
     * What is the equation of Arc Length \$S\$?
     * What is the equation of Surface Area of Revolution, \$A \$? 
-    <ul style="color:#557786;">
+
+    <!--<ul style="color:#557786;">
         <li> $S(a,b) = \int_a^b \sqrt{1 + \left(\frac{dy}{dx}\right)^2} dx $ </li>
         <li>$A(a,b) = 2\pi \int_a^b y \sqrt{1 + \left(\frac{dy}{dx}\right)^2}dx  $</li>
-    </ul>
+    </ul>-->
+
 5. Sketch the following functions 
     * \$ y = \cosh(x) \$
     * \$ y = \sinh(x) \$
     * \$ y = \tanh(x) \$
-    <ul style="color:#557786;">
+
+    <!--<ul style="color:#557786;">
         <li> google it</li>
-    </ul>
+    </ul>-->
 
 
 
+<!--
 ## Week 2 - Coordinate Systems
 
  *  Cartesian Coordinates \$ (x,y,z)\$ - uniquely define a singluar point. Independent coordinates. 
