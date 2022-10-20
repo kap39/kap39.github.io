@@ -21,16 +21,22 @@ If you want to get in touch about any speaking opportunities, or any questions a
 ![RI Masterclass '22](/images/Me/RITalk.jpeg){: width="45%" style="float:left; padding-right:10px" }
 
 <br />
-&nbsp;First trained as a <a href="https://www.stem.org.uk/stem-ambassadors">STEM Ambassador</a> in 2017, I have been taking part in outreach events since my undergraduate days, supporting festivals, leading workshops in schools, and more recently presenting to larger audiences. Events I've supported include <a href="https://museum.wales/cardiff/whatson/10492/Brain-Games/">Brain Games 2017</a>, <a href="https://mathsinspiration.com/">Maths Inspiration 2019</a>. In Spring 2022 I gave my first Royal Institution Maths Masterclass (shown on the right) alongside my fellow PhD students at the University of Bath. 
+&nbsp;First trained as a <a href="https://www.stem.org.uk/stem-ambassadors">STEM Ambassador</a> in 2017, I have been taking part in outreach events since my undergraduate days, supporting festivals, leading workshops in schools, and more recently presenting to larger audiences. Events I've supported include <a href="https://museum.wales/cardiff/whatson/10492/Brain-Games/">Brain Games 2017</a>, <a href="https://mathsinspiration.com/">Maths Inspiration 2019</a>. In Spring 2022 I gave my first Royal Institution Maths Masterclass (shown on the right) alongside my fellow PhD students at the University of Bath.  
 <br />
 
-&nbsp;I have a series of talks available ranging from Number Theory to Fluid Dynamics, maths of music and more. Talks can be catered to a variety of audiences. Please get in contact using the email above if you would like to discuss a presenting role. 
+![Behind the Research Logo](/images/BTRLogo.png){: width="30%" style="float:right; padding-left:10px" }
+
+&nbsp; I am currently lead on the <a href="https://behindtheresearch.github.io">Behind the Research</a> team. this initiative is a group of PhD students trying to showcase the real day to day life of academic research, through livestreams, videos and social media we hope to de-mystify maths at the PhD level and show the variety of life that research can give. 
+<br />
+
+&nbsp; On November 16th 2022, I'm also helping to coordinate <a href="https://phdyourway.github.io">PhD Your Way</a>, an online event for final year undergraduates, and masters students, focused on informing them of the variety of maths PhD opportunities in the UK. This event is co-lead by <a href="https://sites.google.com/view/patricknairne/">Patrick Nairne</a>, and a collaboration of academics from multiple different universities. The event will be joined by at least 15 different universities across the UK. 
+<br />
+
+&nbsp;I have a series of talks available ranging from Number Theory to Fluid Dynamics, 'the maths of music' and more. Talks can be catered to a variety of audiences including school children, adults, online and live events. Please get in contact using the email above if you would like to discuss a presenting role. 
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
 
 
 ## Streaming
@@ -51,7 +57,7 @@ In May 2021, I started streaming on Twitch, and as such my channel <a href="http
 I currently aim to stream at least three times a week, but would love to be able to increase that number. At the minute I have three main types of streams: 
 <ul>
     <li> Pomodoro Co-working Streams - these are some of my favourite (not just because they're the most productive). During these streams I will usually share what I'm working on in the PhD at the minute, allowing people to ask questions and see what the day-to-day life of a PhD student actually looks like. </li>
-    <li> Office Hours - These streams I've been using to work on science communication by mixing between going through exam papers, and having outreach talks. Currently wee've been looking at the summer 2019 A Level WJEC syllabus, and have completed Unit 1, and Unit 2 past papers on stream. </li>
+    <li> Office Hours - These streams I've been using to work on science communication by mixing between going through exam papers, and having outreach talks. Currently wee've been looking at the summer 2019 A Level WJEC syllabus, and have completed all Unit 1-4 past papers on stream. I am currently moving on to a series of streams focused on topics of maths that are based around A level difficulty.  </li>
     <li> Puzzle Games - Okay so these ones are definitely more similar to the typical content on twitch, but I can't say no to the occasional video game so why not make it educational, everybody loves a good puzzle!</li>
 </ul>
 

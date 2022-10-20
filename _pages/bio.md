@@ -17,9 +17,9 @@ Outside of academia I can be found enjoying various different aerial sports, cir
 ## Responsibilities and  Involvements
 
 #### Current
-  * Lead on the Behind the Research Initiative (site coming soon). 
+  * Lead on the [Behind the Research](https://behindtheresearch.github.io) Initiative. 
   * Co-Lead on the [PhD Your Way](https://phdyourway.github.io) Event _16/08/22_
-  * Vice President of the Uni of Bath SIAM and IMA student chapter. _'21/22_
+  * Vice President of the [Uni of Bath SIAM and IMA student chapter](https://bath-siam-ima@github.io). _'21/22_
   * STEM Ambassador since _'17_. 
   * Self-appointed Emperor (and ocoordinator) of department weekly drinks. 
 
