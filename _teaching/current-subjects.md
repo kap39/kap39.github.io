@@ -137,9 +137,9 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 ### Tutorial Quiz
 
 1. For a function \$f(x)\$ what does it mean when \$ f'(x)\$ and \$f''(x)\$ both equal zero? 
-    <!--<ul style="color:#557786;">
-        <li> $f(x)$ has a critical point at $x$ which is a maximum</li>
-    </ul>-->
+   <ul style="color:#557786;">
+        <li> $f(x)$ has a critical point at $x$ which is an inflection point</li>
+    </ul>
 2. List as many notations as you can for partial derivative with respect to: 
     * x
     * y
@@ -147,17 +147,17 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
     * xy
     * yy
 
-    <!--<ul style="color:#557786;">
+    <ul style="color:#557786;">
         <li> $\frac{\partial}{\partial_x},\; \partial_x \; \cdot_x, $</li>
         <li> $\frac{\partial^2}{\partial_x^2},\; \frac{\partial}{\partial x}\left(\frac{\partial}{\partial_x}\right), \; \cdot_x^2, \; \cdot_{xx} $</li>
-    </ul>-->
+    </ul>
 3. What is the relationship between \$ \partial_{xy}\$ and \$ \partial_{yx}\$.
-    <!--<ul style="color:#557786;">
+    <ul style="color:#557786;">
         <li> For well behaved functions $ \partial_{xy} = \partial_{yx} $ </li>
-    </ul>-->
+    </ul>
 4. Name and define the types of critical points. 
     * What does it mean for a point to be a critical point?
-        <!--<ul style="color:#557786;">
+        <ul style="color:#557786;">
             <li> a critical point is a point $(x_0,y_0)$ where the gradient of the function is zero, i.e the partial derivatives of $f$ at $(x_0,y_0)$ are both equal to zero. </li>
             <li>
             <table>
@@ -187,11 +187,11 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
                 </tr>
             </table>
             </li>
-        </ul>-->
+        </ul>
 5. State the second derivative test. 
     * What assumptions can be made based on the different possible results of the second derivative test? 
     * When is the second derivative test inconclusive? 
-        <!-- <ul style="color:#557786;">
+        <ul style="color:#557786;">
             <li> For a critical point $(x_0,y_0)$ of a function $f(x,y)$ with continuous second order derivatives, let the determinant be given by
             $$D = f_{xx}f_{yy} - f_{xy}^2 $$
             Then: 
@@ -201,29 +201,30 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
                     <li> If $D<0$ then $(x_0,y_0)$ is a saddle point </li>
                     <li> If $D=0$ the test is inconclusive </li>
                 </ul>
+            </li>
             <li> The second partials test is inconclusive when the first and second order derivatives are both equal to zero, or the second derivative doesn't exist at the critical point. In this case we need higher derivatives (or other types of information about the function) to give indication of the behaviour of the critical point. </li>
-        </ul>-->
+        </ul>   
 6. What is the Hessian of a function? 
     * How does it relate to the second derivative test?
-        <!--<ul style="color:#557786;">
+        <ul style="color:#557786;">
             <li> The Hessian
             $$ H(x,y) = \begin{bmatrix} f_{xx} & f_{xy} \\ f_{yx} & f_{yy} \end{bmatrix} $$ is a matrix containing all second order partial derivatives of the function. The determinant in the second partials test is the determinant of this matrix. (Check for yourself). 
             </li>
-        </ul>-->
+        </ul>
 7. Write Cartesian coordinates in terms of cylindrical polar coordinates
-        <!--<ul style="color:#557786;">
-            <li> $x = r\cos(\theta)$</li>
-            <li> $y = r\sin(\theta)$ </li>
-            <li> $z=z$ </li>
-        </ul>-->
+    <ul style="color:#557786;">
+        <li> $x = r\cos(\theta)$</li>
+        <li> $y = r\sin(\theta)$ </li>
+        <li> $z=z$ </li>
+    </ul>
 8. Write spherical polar coordinates in terms of Cartesian coordinates. 
-        <!--<ul style="color:#557786;">
-            <li> $r= \sqrt{x^2+y^2+z^2} $</li>
-            <li> $ \theta = \tan^{-1}(y/x) $ </li>
-            <li> $ \phi=\cos^{-1}\left(\frac{z}{\sqrt{x^2+y^2+z^2}}\right) $ </li>
-        </ul>-->
+    <ul style="color:#557786;">
+        <li> $r= \sqrt{x^2+y^2+z^2} $</li>
+        <li> $ \theta = \tan^{-1}(y/x) $ </li>
+        <li> $ \phi=\cos^{-1}\left(\frac{z}{\sqrt{x^2+y^2+z^2}}\right) $ </li>
+    </ul>
 
-<!--
+
 ## Week 4 - Cartesian Double Integrals
 
 * Order of Integration
@@ -236,50 +237,50 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
     * \$ \frac{d}{d t} f(x(t),y(t)) \$ 
     * \$ \frac{\partial}{\partial y} f(x,y)\cdot g(x,y)\$
     * \$ \frac{\partial}{\partial x} \left(\frac{f(x,y)}{g(x,y)}\right)\$
-    <ul style="color:#557786;">
-        <li> Chain Rule </li>
-        <li> Multivariate Chain Rule </li>
-        <li> Product Rule </li>
-        <li> Quotient Rule </li>
-    </ul>
+        <!--<ul style="color:#557786;">
+            <li> Chain Rule </li>
+            <li> Multivariate Chain Rule </li>
+            <li> Product Rule </li>
+            <li> Quotient Rule </li>
+        </ul>-->
 2. Name and write  the \$\nabla\$ operator in terms of \$\partial_x, \; \partial_y\$. 
-    <ul style="color:#557786;">
-        <li> $\nabla = \partial_x + \partial_y $</li>
-    </ul>
+    <!--<ul style="color:#557786;">
+            <li> $\nabla = \partial_x + \partial_y $</li>
+    </ul>-->
 3. What is: 
     * Laplace's equation for \$f(x,y)\$ 
     * The 1D wave equation for \$ f(x,t)\$ 
     * The 2D wave equation for \$ f(x,y,t)\$ 
-    <ul style="color:#557786;">
-        <li> $\nabla^2 f = \partial_x^2 f + \partial_y^2 = 0 $</li>
-        <li> $ \partial_t f = c^2 \partial_x^2 f $ </li>
-        <li> $ \partial_t^2 f = c^2 \partial_x^2 f $ </li>
-    </ul>
+        <!--<ul style="color:#557786;">
+            <li> $\nabla^2 f = \partial_x^2 f + \partial_y^2 = 0 $</li>
+            <li> $ \partial_t f = c^2 \partial_x^2 f $ </li>
+            <li> $ \partial_t^2 f = c^2 \partial_x^2 f $ </li>
+        </ul>-->
 4. What is the graphical interpretation of a double integral? 
-    <ul style="color:#557786;">
-        <li> Volume under the surface </li>
-    </ul>
+    <!--<ul style="color:#557786;">
+            <li> Volume under the surface </li>
+    </ul>-->
 5. How do we evaluate double integrals? 
-    <ul style="color:#557786;">
+    <!--<ul style="color:#557786;">
         <li> evaluate inside integral first, then outside integral </li>
-    </ul>
+    </ul>-->
 6. State Fubini's theorem for \$ \iint f(x,y)dA \$ where \$ a \le x \le b\$ and \$ c\le y \le d\$.
-    <ul style="color:#557786;">
-        <li> $\iint_R f(x,y) dA = \int_c^d \int_a^b f(x,y) dxdy = \int_a^b \int_c^d f(x,y) dydx$</li>
-    </ul>
+    <!--<ul style="color:#557786;">
+            <li> $\iint_R f(x,y) dA = \int_c^d \int_a^b f(x,y) dxdy = \int_a^b \int_c^d f(x,y) dydx$</li>
+    </ul>-->
 7. What is the Jacobian of a coordinate system? 
     * How many different notations can you think of? 
     * What is the Jacobian of cylindrical polar (from cartesian)?
     * What is the Jacobian of cartesian (from cartesian)?
     * What is the Jacobian of spherical polar (from cartesian)?
-    <ul style="color:#557786;">
-        <li> The determinant of the Jacobian matrix is an indication of how much an area is deformed over a certain transformation - think similar to scale factors</li>
-        <li> Notation: $J_{u,v},\; \frac{\partial(x,y)}{\partial(u,v)},\; \det(J)$ </li>
-        <li> $J(r,\theta,z) = r $ </li>
-        <li> $ J(r,\theta,\rho) = r^2\sin(\rho) $ </li>
-    </ul>
+        <!--<ul style="color:#557786;">
+            <li> The determinant of the Jacobian matrix is an indication of how much an area is deformed over a certain transformation - think similar to scale factors</li>
+            <li> Notation: $J_{u,v},\; \frac{\partial(x,y)}{\partial(u,v)},\; \det(J)$ </li>
+            <li> $J(r,\theta,z) = r $ </li>
+            <li> $ J(r,\theta,\rho) = r^2\sin(\rho) $ </li>
+        </ul>-->
 
-
+<!--
 ## Week 5 - Double Integrals 2: Here's the remix 
 
 * Jacobian 
