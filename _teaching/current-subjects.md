@@ -280,7 +280,7 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
             <li> $ J(r,\theta,\rho) = r^2\sin(\rho) $ </li>
         </ul>-->
 
-<!--
+
 ## Week 5 - Double Integrals 2: Here's the remix 
 
 * Jacobian 
@@ -291,12 +291,12 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 
 1. What is the Jacobian of a transform \$ (x,y) \to (u,v) \$?
     * What is the Jacobian of cartesian to cylindrical polar coordinates?
-    * What is the Jacobian of cartesian to Spherical polar coordiantes?  <br/>
-     <ul style="color:#557786;">
-        <li> The Jacobian of a transform $ J(u,v) = \big| \frac{\partial(u,v)}{\partial(x,y)}\big| $, is given to be the modulus determinant of the matrix of first order partial derivatives. It can be thought of almost like a scale factor, in that it helps map the transform from the xy plan to the uv plane.  </li>
-        <li>$J(r, \theta)  = \begin{vmatrix} \cos(\theta) & \sin(\theta) \\ -r\sin(\theta) & r\cos(\theta) \end{vmatrix}  = r$</li>
-        <li> $J(r, \theta, \psi)  = \begin{vmatrix} \cos(\theta)\sin(\phi) & \sin(\theta)\sin(\phi) & \cos(\phi)  \\ -r\sin(\theta)\sin(\phi) & r\cos(\theta)\sin(\phi) & 0 \\ r\cos(\theta)\cos(\phi) & r\sin(\theta)\cos(\phi) & -r\sin(\phi) \end{vmatrix}  = r^2 \sin(\phi)$</li>
-    </ul>
+    * What is the Jacobian of cartesian to Spherical polar coordinates?  <br/>
+        <!--<ul style="color:#557786;">
+            <li> The Jacobian of a transform $ J(u,v) = \big| \frac{\partial(u,v)}{\partial(x,y)}\big| $, is given to be the modulus determinant of the matrix of first order partial derivatives. It can be thought of almost like a scale factor, in that it helps map the transform from the xy plan to the uv plane.  </li>
+            <li>$J(r, \theta)  = \begin{vmatrix} \cos(\theta) & \sin(\theta) \\ -r\sin(\theta) & r\cos(\theta) \end{vmatrix}  = r$</li>
+            <li> $J(r, \theta, \psi)  = \begin{vmatrix} \cos(\theta)\sin(\phi) & \sin(\theta)\sin(\phi) & \cos(\phi)  \\ -r\sin(\theta)\sin(\phi) & r\cos(\theta)\sin(\phi) & 0 \\ r\cos(\theta)\cos(\phi) & r\sin(\theta)\cos(\phi) & -r\sin(\phi) \end{vmatrix}  = r^2 \sin(\phi)$</li>
+        </ul>-->
       
 2. For a region \$ R\$ in the positive quadrant bound by: \$ x=y, xy=1,x=\sqrt{2}\$:
     * Sketch \$R\$ in the \$ xy\$ plane. 
@@ -304,44 +304,44 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
         * Rewrite the three bounding equations in \$u\$ and \$v\$. 
         * Sketch S, the transformed region R in the \$uv\$ plane. 
         * Work out the Jacobian of this transformation  
-    <ul style="color:#557786;">
-    <li> $u=1$, $v=1$, $uv = 2$</li>
-    <li> Since $x = \sqrt{uv}$, $y= \sqrt{v/u}$, we have $ J(u,v) = \begin{vmatrix} \frac{1}{2}\sqrt{v/u} & \frac{-1}{2}\sqrt{\frac{v}{u^3}}  \\ \frac{1}{2}\sqrt{\frac{u}{v}} & \frac{1}{2}\sqrt{uv} \end{vmatrix} = \frac{1}{4(u+\sqrt{u})} $ </li>
-    </ul>
+            <!--<ul style="color:#557786;">
+                <li> $u=1$, $v=1$, $uv = 2$</li>
+                <li> Since $x = \sqrt{uv}$, $y= \sqrt{v/u}$, we have $ J(u,v) = \begin{vmatrix} \frac{1}{2}\sqrt{v/u} & \frac{-1}{2}\sqrt{\frac{v}{u^3}}  \\ \frac{1}{2}\sqrt{\frac{u}{v}} & \frac{1}{2}\sqrt{uv} \end{vmatrix} = \frac{1}{4(u+\sqrt{u})} $ </li>
+            </ul>-->
 3.  For a region \$ R\$ bound by: \$ x-2y=0, x-2y=4,3x-y=1, 3x-y=8\$:
     * Sketch \$R\$ in the \$ xy\$ plane. 
     * Introduce \$ u = x-2y\$, \$ v = 3x-y\$. 
         * Rewrite the three bounding equations in \$u\$ and \$v\$. 
         * Sketch S, the transformed region R in the \$uv\$ plane. 
         * Work out the Jacobian of this transformation
-    <ul style="color:#557786;">
-    <li> $u=0$, $u=4$, $v=1$, $v=8$</li>
-    <li> Since $x = \frac{u-2v}{6}$, $y= \frac{v-3u}{5}$, we have $ J(u,v) = \begin{vmatrix} \frac{1}{6} & \frac{-1}{3} \\ \frac{-3}{5} & \frac{1}{5} \end{vmatrix} = \frac{-1}{6} $ </li>
-    </ul>
+            <!--<ul style="color:#557786;">
+                <li> $u=0$, $u=4$, $v=1$, $v=8$</li>
+                <li> Since $x = \frac{u-2v}{6}$, $y= \frac{v-3u}{5}$, we have $ J(u,v) = \begin{vmatrix} \frac{1}{6} & \frac{-1}{3} \\ \frac{-3}{5} & \frac{1}{5} \end{vmatrix} = \frac{-1}{6} $ </li>
+            </ul>-->
 4.  For a region \$ R\$ in the positive quadrant bound by: \$xy=1, xy=4, y=1, y=2\$:
     * Sketch \$R\$ in the \$ xy\$ plane. 
     * Introduce \$ x=u/v\$, \$ y=v\$. 
         * Rewrite the three bounding equations in \$u\$ and \$v\$. 
         * Sketch S, the transformed region R in the \$uv\$ plane. 
         * Work out the Jacobian of this transformation
-    <ul style="color:#557786;">
-    <li> $u=1$, $u=4$, $v=1$, $v=2$</li>
-    <li> We have $ J(u,v) = \begin{vmatrix}\frac{1}{v} & \frac{-u}{v^2}\\ 1 & 0 \end{vmatrix} = \frac{1}{v} $ </li>
-    </ul>
+            <!--<ul style="color:#557786;">
+                <li> $u=1$, $u=4$, $v=1$, $v=2$</li>
+                <li> We have $ J(u,v) = \begin{vmatrix}\frac{1}{v} & \frac{-u}{v^2}\\ 1 & 0 \end{vmatrix} = \frac{1}{v} $ </li>
+            </ul>-->
 5. Find the Jacobian of the transformation \$x=u\$, \$ y=2uv\$. 
     * Sketch S, the region: \$ 1 \le u \le 2\$, \$ 2 \le 2uv \le 4\$ in the uv plane 
-    <ul style="color:#557786;">
-    <li> We have $ J(u,v) = \begin{vmatrix}1 & 0 \\ 2v & 2u \end{vmatrix} = 2u $ </li>
-    </ul>
+        <!--<ul style="color:#557786;">
+            <li> We have $ J(u,v) = \begin{vmatrix}1 & 0 \\ 2v & 2u \end{vmatrix} = 2u $ </li>
+        </ul>-->
 6. HARD: Consider the region R  bound by \$ x^2 \le y \le 1+x^2 \$, \$ \sqrt{1-x^2} \le y \le \sqrt{4-x^2}\$. 
     * Sketch R in the \$ xy \$ plane
     * Let \$ u = x^2+ y^2 \$, \$ v = y-x^2 \$. Sketch S in the \$ uv \$ plane
     * Determine the Jacobian of the change
-    <ul style="color:#557786;">
-    <li> This is easier to solve for (x,y) and invert.  we have $ J(x,y) = \begin{vmatrix} 2x &2y \\  -2x *1\end{vmatrix} =4xy + 2x $. Hence $J(u,v) = \frac{1}{4xy+2x} = \frac{1}{4xy + 2x}$ ( we really should convert to $(u,v)$ here but it's a bit disgusting to do it so it's left as an exercise.) </li>
-    </ul>
+        <!--<ul style="color:#557786;">
+            <li> This is easier to solve for (x,y) and invert.  we have $ J(x,y) = \begin{vmatrix} 2x &2y \\  -2x *1\end{vmatrix} =4xy + 2x $. Hence $J(u,v) = \frac{1}{4xy+2x} = \frac{1}{4xy + 2x}$ ( we really should convert to $(u,v)$ here but it's a bit disgusting to do it so it's left as an exercise.) </li>
+        </ul>-->
 
-
+<!--
 ## Week 6 - Polar coordinates
 
 * Changing integral limits from cartesian to polar coordinates. 
