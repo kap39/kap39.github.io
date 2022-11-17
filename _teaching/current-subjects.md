@@ -352,8 +352,10 @@ For a function \$ y=f(x) \$ defined over an interval \$[a,b]\$
 * Evaluating integrals using order of integration or mixing integrals
     * Remember when changing order of integration the limits will also need to be changed, and if one of your boundaries is a function of the other axis, this will have to be on the inside integral. 
 
+
 ### Tutorial Quiz
-This week break up into 5 teams and each team work on a question, explain the solution to the rest of the class. The questions are broken down into smaller parts as a guide.<!-- [SOLUTIONS](https://kap39.github.io/files/Week6.pdf "Solutions")-->
+
+This week break up into 5 teams and each team work on a question, explain the solution to the rest of the class. The questions are broken down into smaller parts as a guide. [SOLUTIONS](https://kap39.github.io/files/Week6.pdf "Solutions")
 
 1. Regions when transformation given: For the following Sketch the original region and the new region mapped by the transform, state the new bounding equations. 
     * For a region \$R\$ bound by the ellipse \$ x^2 + \frac{y^2}{36} = 1\$, and transform \$x=u/2\$ and \$ y= 3v\$
@@ -391,9 +393,8 @@ This week break up into 5 teams and each team work on a question, explain the so
     * Evaluate the integral. 
 
 
-<!--
 ## Week 7 - Triple Integrals
-Solutions can be found [here](https://kap39.github.io/files/week7.pdf "Solutions")
+<!--Solutions can be found [here](https://kap39.github.io/files/week7.pdf "Solutions") -->
 
 * What does it mean?
     * For single integrals - area under a curve
@@ -410,7 +411,7 @@ Solutions can be found [here](https://kap39.github.io/files/week7.pdf "Solutions
     * dL in terms of r
     * dA in terms of \$(r,\theta)\$
     * dV in terms of \$(r,\theta,\phi)\$
-2. Change the order of integration from \$dxdydz\$ to \$dzdydx\$  of the following
+2. Change the order of integration to \$dzdydx\$  of the following
     * \$ \int_0^5 \int_0^2 \int_0^\sqrt{4-y^2} dxdydz \$
     * \$  \int_0^4 \int_0^{4-y} \int_0^{\sqrt{z}} dxdzdy\$ 
 3. Use double integrals in polar coordinates to find the volume of the oblate spheroid \$ \frac{x^2}{a} + \frac{y^2}{a} + \frac{z^2}{c} = 1\$ where \$0 < c < a\$
@@ -425,7 +426,7 @@ Solutions can be found [here](https://kap39.github.io/files/week7.pdf "Solutions
 
 
 
-
+<!--
 
 ## Week 8 - Differential Equations
 
