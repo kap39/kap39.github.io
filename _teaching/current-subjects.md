@@ -394,7 +394,7 @@ This week break up into 5 teams and each team work on a question, explain the so
 
 
 ## Week 7 - Triple Integrals
-<!--Solutions can be found [here](https://kap39.github.io/files/week7.pdf "Solutions") -->
+Solutions can be found [here](https://kap39.github.io/files/week7.pdf "Solutions") 
 
 * What does it mean?
     * For single integrals - area under a curve
@@ -426,9 +426,7 @@ This week break up into 5 teams and each team work on a question, explain the so
 
 
 
-<!--
-
-## Week 8 - Differential Equations
+## Week 8 - First Order Differential Equations
 
 This week we shift track and start looking at differential equations. We start with linear and separable differential equations. 
 *  Separable Equations
@@ -439,6 +437,28 @@ This week we shift track and start looking at differential equations. We start w
     * Solve using Integrating Factor Method
     * \$IF = e^{\int a(x) dx}\$
     * the general solution then takes the form \$y(x) = \frac{1}{IF}\int IF b(x) dx\$. 
+
+### Tutorial Quiz
+
+1. Write a general form of the following types of  ODEs
+    * Separable first order
+    * Linear first order
+    * Bernoulli ODE
+    * Exact ODE
+    * Homogenous ODE
+2. For a general linear ODE that can be solved using the IF method, please state the IF method and the exact solution.
+3. The coupled system of equations of motion for a free surface deformed due to a droplet rebounding can be rewritten by introducing a change of variables \$u = \eta + v \$ to give a single equation <br> 
+\$ \partial_t u(k,t) = -(i\Omega + \frac{2}{Re}k^2)u(k,t) - \frac{sign(k)}{\Omega}(Q(k,t)) \$
+Find the integrating factor of this equation and rewrite the ODE in the form \$ \frac{d}{dt}[F(k,t)] = G(k,t) \$
+
+4. Sketch the slope field for the following functions
+    * \$ \frac{dy}{dt} = y \$
+    * \$ \frac{dy}{dt} = e^{-y} \$
+    * \$ \frac{dy}{dt} = sin(t) \$
+5. (From Calculus 8th edition 9.2 Q 51) A rocket of initial mass \$ m_0\$ is fired upwards at time \$ t=0\$. Assuming the fuel is consumed at a constant rate k, the mass m of the rocket, while the fuel is being burned will be given by \$ m = m_0  -kt\$. It can be shown that if air resistance is neglected and the fuel gassess are expelled at a contant speed c relative the the rocket, then the velocity v of the rocket will satisfy the equation 
+\$ m \frac{dv}{dt} = ck - mg\$. Fing \$v(t)\$, keeping in mind m is also a function of time. 
+
+<!--
 
 ## Week 9 - More first order differential equations
 
