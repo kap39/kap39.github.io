@@ -443,9 +443,6 @@ This week we shift track and start looking at differential equations. We start w
 1. Write a general form of the following types of  ODEs
     * Separable first order
     * Linear first order
-    * Bernoulli ODE
-    * Exact ODE
-    * Homogenous ODE
 2. For a general linear ODE that can be solved using the IF method, please state the IF method and the exact solution.
 3. The coupled system of equations of motion for a free surface deformed due to a droplet rebounding can be rewritten by introducing a change of variables \$u = \eta + v \$ to give a single equation <br> 
 \$ \partial_t u(k,t) = -(i\Omega + \frac{2}{Re}k^2)u(k,t) - \frac{sign(k)}{\Omega}(Q(k,t)) \$
@@ -458,7 +455,6 @@ Find the integrating factor of this equation and rewrite the ODE in the form \$ 
 5. (From Calculus 8th edition 9.2 Q 51) A rocket of initial mass \$ m_0\$ is fired upwards at time \$ t=0\$. Assuming the fuel is consumed at a constant rate k, the mass m of the rocket, while the fuel is being burned will be given by \$ m = m_0  -kt\$. It can be shown that if air resistance is neglected and the fuel gassess are expelled at a contant speed c relative the the rocket, then the velocity v of the rocket will satisfy the equation 
 \$ m \frac{dv}{dt} = ck - mg\$. Fing \$v(t)\$, keeping in mind m is also a function of time. 
 
-<!--
 
 ## Week 9 - More first order differential equations
 
@@ -467,6 +463,18 @@ Now looking at some more general types of first order ODE's
 * Bernoulli Equations
 * Homogeneous Equations
 * Exact Equations
+
+### Tutorial Quiz
+1. Write a general form of the following types of ODEs, as well as the general method of solving them
+    * Sepearable First Order
+    * Linear First Order
+    * Bernoulli Equations
+    * Homogeneous Equations
+    * Exact Equations
+2. Go to MA10230 exam paper 2020. Answer Question 3
+3. Go to MA10230 exam paper 2021. Answer Question 5
+
+<!--
 
 ## Week 10 - Second order differential equations
 
