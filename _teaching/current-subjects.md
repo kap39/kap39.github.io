@@ -474,7 +474,7 @@ Now looking at some more general types of first order ODE's
 2. Go to MA10230 exam paper 2020. Answer Question 3
 3. Go to MA10230 exam paper 2021. Answer Question 5
 
-<!--
+
 
 ## Week 10 - Second order differential equations
 
@@ -496,8 +496,6 @@ Second order differential equations now require different methods to solve. In g
 
 
 
-## Week 11 - Mechanics
+## Week 11 - Exam Prep
 
-
- -->
-
+Go through the content from the previous weeks and make a cheat-sheet, containing all the barebones information you need. Practice moving between coordinate systems, and calculating jacobians of transformation. Practice sketching graphs by plotting some surfaces on desmos and check to see if you can find their extrema mathematically. 
