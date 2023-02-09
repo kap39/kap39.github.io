@@ -20,9 +20,9 @@ This is the section for the semester 2 module, MA10236, for the academic year 22
 
 ## Deadlines and Tutorial information
 
-Please submit your homework to the correct pigeonhole by no later than <b>Tuesday at 4pm</b>. Tutorials will be held weekly in person in the later half of the week. Please email me if you are going to miss a tutorial or can't make this homework deadline if you require an extension. 
- D2:  Friday 12:15 6E 2.7
- PH1: Friday 12:15 8W 2.28
+Please submit your homework to the correct pigeonhole by no later than <b>Tuesday at 4pm</b>. Tutorials will be held weekly in person in the later half of the week. Please email me if you are going to miss a tutorial or can't make this homework deadline if you require an extension. <br/>
+ D2:  Friday 12:15 6E 2.7<br/>
+ PH1: Friday 12:15 8W 2.28<br/>
 
 
 ## Week 1 - Introduction to Vectors
