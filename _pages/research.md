@@ -16,6 +16,7 @@ My research lies in the boundary between theoretical and computational fluid dyn
 
 Conferences and Symposia 
 =====
+  * Presented a poster at the 7th annual [SAMBa Summer Conference](https://hl785.github.io/SAMBa-Conf-2023.html) - _Jul '23_
   * Presented a talk at the ICMS Workshop: [Waves and Free Surface Flows: The Next Twenty Years](https://www.icms.org.uk/workshops/2023/waves-and-free-surface-flows-next-twenty-years) - _May '23_
   * Presented a talk at the annual [ British Applied Maths Colloquium 2023](https://sites.google.com/view/bmc-2023/home) - _Apr '23_
   * Partcipated in SAMBa & CMM [Chile Integrative Think Tank](https://samba.ac.uk/chile-itt-2022-12-16-dec-2022/) - _Dec '22_ 
