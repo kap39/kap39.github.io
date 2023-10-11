@@ -3,7 +3,7 @@ layout: archive
 title: "Current Subjects"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/current
+permalink: /teaching/extra
 venue: "University of Bath"
 date: 2023-02-09
 location: "Bath, UK"
