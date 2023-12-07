@@ -20,7 +20,6 @@ Croeso and Welcome! I'm Kat, I'm a Mathematics PhD student at the University of 
 <h2>Recently:</h2>
  I had a lovely chat with Ellen and Bethany at Chalkdust Magazine! Check it out below
  <br>
-<img src="https://kap39.github.io/images/Chalkdust.png"  href="https://chalkdustmagazine.com/interviews/in-conversation-with-kat-phillips/" alt = "Link to Chalkdust Magazine"  width = "30%" >
-
+<a href="https://chalkdustmagazine.com/interviews/in-conversation-with-kat-phillips/"><img style="width: 75%; height: 75%; padding-left:100px" alt="Women in STEM" src="/images/Chalkdust.png" class="center" ></a>
 ---
 

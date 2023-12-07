@@ -72,7 +72,7 @@ In November '23 I was interviewed by Chalkdust magazine, having a chat about eve
 <figure class="half">
 <a href="https://chalkdustmagazine.com/interviews/in-conversation-with-kat-phillips/"><img style="width: 75%; height: 75%; padding-left:100px" alt="Women in STEM" src="/images/Chalkdust.png" class="center" ></a>
 <a href="https://youtu.be/gF9G7g1nTDk?si=7Sm_L9k5muZa3qRe">
-<img alt="does anyone know how to get embed to work properly?" src="/images/SimonVideo.png"></a>
+<img alt="does anyone know how to get embed to work properly?" src="/images/IterListVideoThumbnail.png"></a>
 </figure>
 
 <figure class="half">
